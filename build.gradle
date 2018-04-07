@@ -1,0 +1,23 @@
+apply plugin: 'idea'
+apply plugin: 'java'
+apply plugin: 'groovy'
+subprojects {
+    version = '1.0'
+}
+//version = '0.0.1-SNAPSHOT'
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+//sourceSets.main.java.srcDirs =
+//  ["src/main/java", "src/test/java", "src/main/resources" ]
+
+dependencies {
+//	compile 'junit:junit:4.8.2'
+//	compile 'org.springframework:spring:2.5.6.SEC02'
+    compile 'org.springframework:spring:2.5.6.SEC02'
+    compile 'org.codehaus.groovy:groovy-all:2.4.12'
+    testCompile 'org.codehaus.groovy:groovy-all:2.4.12'
+    compile group: 'commons-logging', name: 'commons-logging', version: '1.2'
+}
