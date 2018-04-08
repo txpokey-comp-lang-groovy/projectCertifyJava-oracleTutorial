@@ -1,3 +1,8 @@
+
+
+package edu.ora.se.java.generics.examples ;
+
+
 import java.util.List;
 
 public class WildcardErrorBad {

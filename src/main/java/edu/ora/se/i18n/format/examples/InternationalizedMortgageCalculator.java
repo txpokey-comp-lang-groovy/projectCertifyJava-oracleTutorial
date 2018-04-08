@@ -1,5 +1,10 @@
 
 
+package edu.ora.se.i18n.format.examples ;
+
+
+
+
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.ComponentOrientation;
