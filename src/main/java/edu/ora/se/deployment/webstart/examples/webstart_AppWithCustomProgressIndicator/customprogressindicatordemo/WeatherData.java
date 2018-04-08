@@ -34,7 +34,6 @@ package edu.ora.se.deployment.webstart.examples.webstart_AppWithCustomProgressIn
 
 
 
-package customprogressindicatordemo;
 
 import javax.swing.JTable;
 import javax.swing.JPanel;

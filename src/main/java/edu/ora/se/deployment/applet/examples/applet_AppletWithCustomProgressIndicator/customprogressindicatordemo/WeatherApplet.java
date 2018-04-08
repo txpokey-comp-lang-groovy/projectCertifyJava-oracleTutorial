@@ -34,7 +34,6 @@ package edu.ora.se.deployment.applet.examples.applet_AppletWithCustomProgressInd
 
 
 
-package customprogressindicatordemo;
 
 import javax.swing.JApplet;
 import javax.swing.SwingUtilities;
