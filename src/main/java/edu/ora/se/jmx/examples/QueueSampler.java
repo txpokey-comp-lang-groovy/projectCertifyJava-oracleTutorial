@@ -40,7 +40,6 @@ package edu.ora.se.jmx.examples ;
  * QueueSamplerMXBean interface, with the appropriate behavior for each one.
  */
 
-package com.example;
 
 import java.util.Date;
 import java.util.Queue;

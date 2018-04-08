@@ -40,7 +40,6 @@ package edu.ora.se.jmx.examples ;
  * MXBean example. It also listens for Hello MBean notifications.
  */
 
-package com.example;
 
 import java.io.IOException;
 import java.util.Arrays;

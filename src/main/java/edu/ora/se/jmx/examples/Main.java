@@ -40,7 +40,6 @@ package edu.ora.se.jmx.examples ;
  * MBean server, then wait forever (or until the program is interrupted).
  */
 
-package com.example;
 
 import java.lang.management.ManagementFactory;
 import java.util.Queue;

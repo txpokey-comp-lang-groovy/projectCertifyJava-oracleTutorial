@@ -40,7 +40,6 @@ package edu.ora.se.jmx.examples ;
  * there is a read-only attribute "QueueSample" and an operation "clearQueue".
  */
 
-package com.example;
 
 public interface QueueSamplerMXBean {
     public QueueSample getQueueSample();

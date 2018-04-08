@@ -40,7 +40,6 @@ package edu.ora.se.jmx.examples ;
  * "sayHello" and "add", and two attributes, "Name" and "CacheSize".
  */
 
-package com.example;
 
 public interface HelloMBean {
     //-----------

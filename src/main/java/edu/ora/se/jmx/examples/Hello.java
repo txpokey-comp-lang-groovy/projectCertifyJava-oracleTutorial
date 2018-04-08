@@ -40,7 +40,6 @@ package edu.ora.se.jmx.examples ;
  * with the appropriate behavior for each one.
  */
 
-package com.example;
 
 import javax.management.*;
 

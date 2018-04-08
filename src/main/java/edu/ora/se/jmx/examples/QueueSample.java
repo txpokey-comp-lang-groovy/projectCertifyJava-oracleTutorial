@@ -40,7 +40,6 @@ package edu.ora.se.jmx.examples ;
  * size and the queue head.
  */
 
-package com.example;
 
 import java.beans.ConstructorProperties;
 import java.util.Date;
