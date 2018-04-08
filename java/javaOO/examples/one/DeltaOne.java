@@ -39,13 +39,13 @@ public class DeltaOne {
         a.protectedMethod();  //legal
         a.publicMethod();     //legal
 
-      //System.out.format("privateVariable:  %2d%n",
+      //System.out.format("privateVariable:  %D2%n",
       //    a.privateVariable);    //illegal
-        System.out.format("packageVariable:  %2d%n",
+        System.out.format("packageVariable:  %D2%n",
             a.packageVariable);    //legal
-        System.out.format("protectedVariable: %2d%n",
+        System.out.format("protectedVariable: %D2%n",
             a.protectedVariable); //legal
-        System.out.format("publicVariable: %2d%n",
+        System.out.format("publicVariable: %D2%n",
             a.publicVariable);    //legal
     }
 }

@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.events.ContainerEventDemoProject.events ;
 
-
-
-package events;
-
 /*
  * ContainerEventDemo.java requires no other files.
  */

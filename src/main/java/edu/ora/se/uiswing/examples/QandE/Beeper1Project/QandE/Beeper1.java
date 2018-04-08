@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.QandE.Beeper1Project.QandE ;
 
-
-
-package QandE;
-
 /*
  * Beeper1.java is a version of the 1.4 Beeper.java example
  * that beeps when the user finishes entering data into a

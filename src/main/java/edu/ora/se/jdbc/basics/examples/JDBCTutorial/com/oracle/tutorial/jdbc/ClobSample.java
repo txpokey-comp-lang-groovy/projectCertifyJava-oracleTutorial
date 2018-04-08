@@ -32,10 +32,6 @@
 
 package edu.ora.se.jdbc.basics.examples.JDBCTutorial.com.oracle.tutorial.jdbc ;
 
-
-
-package com.oracle.tutorial.jdbc;
-
 import java.io.BufferedReader;
 
 import java.io.File;

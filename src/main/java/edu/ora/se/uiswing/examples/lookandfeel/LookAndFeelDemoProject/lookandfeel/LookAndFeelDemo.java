@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.lookandfeel.LookAndFeelDemoProject.lookandfeel ;
 
-
-
-package lookandfeel;
-
 /*
  * LookAndFeelDemo.java is a Java SE 6 example that requires
  * one other file (TestTheme.java).

@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.dnd.ChooseDropActionDemoProject.dnd ;
 
-
-
-package dnd;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.datatransfer.*;

@@ -32,9 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.TextComponentDemoProject.components ;
 
-
-
-package components;
 /*
  * TextComponentDemo.java requires one additional file:
  *   DocumentSizeFilter.java

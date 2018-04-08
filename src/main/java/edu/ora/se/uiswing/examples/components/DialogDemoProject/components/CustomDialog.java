@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.DialogDemoProject.components ;
 
-
-
-package components;
-
 import javax.swing.JOptionPane;
 import javax.swing.JDialog;
 import javax.swing.JTextField;

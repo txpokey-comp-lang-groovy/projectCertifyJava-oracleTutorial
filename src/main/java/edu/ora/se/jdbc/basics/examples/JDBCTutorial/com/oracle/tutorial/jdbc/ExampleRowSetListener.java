@@ -32,10 +32,6 @@
 
 package edu.ora.se.jdbc.basics.examples.JDBCTutorial.com.oracle.tutorial.jdbc ;
 
-
-
-package com.oracle.tutorial.jdbc;
-
 import javax.sql.RowSetEvent;
 import javax.sql.RowSetListener;
 

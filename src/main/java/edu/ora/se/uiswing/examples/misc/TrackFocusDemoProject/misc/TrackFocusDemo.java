@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.misc.TrackFocusDemoProject.misc ;
 
-
-
-package misc;
-
 /*
  * TrackFocusDemo.java requires the following files:
  *     Picture.java

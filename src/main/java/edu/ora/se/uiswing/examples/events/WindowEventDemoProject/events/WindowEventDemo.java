@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.events.WindowEventDemoProject.events ;
 
-
-
-package events;
-
 /*
  * WindowEventDemo
  */

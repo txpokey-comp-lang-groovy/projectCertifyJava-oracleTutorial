@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.layout.FindProject.layout ;
 
-
-
-package layout;
-
 import java.awt.Component;
 import javax.swing.*;
 import static javax.swing.GroupLayout.Alignment.*;

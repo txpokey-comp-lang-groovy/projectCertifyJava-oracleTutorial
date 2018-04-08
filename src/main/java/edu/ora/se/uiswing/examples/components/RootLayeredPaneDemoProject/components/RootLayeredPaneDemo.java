@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.RootLayeredPaneDemoProject.components ;
 
-
-
-package components;
-
 import javax.swing.*;
 import javax.swing.border.*;
 import javax.accessibility.*;

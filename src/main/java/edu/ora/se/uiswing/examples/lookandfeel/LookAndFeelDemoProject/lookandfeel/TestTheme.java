@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.lookandfeel.LookAndFeelDemoProject.lookandfeel ;
 
-
-
-package lookandfeel;
-
 import javax.swing.plaf.*;
 import javax.swing.plaf.metal.*;
 import javax.swing.*;

@@ -32,10 +32,6 @@
 
 package edu.ora.se.java.IandI.examples.defaultmethods ;
 
-
-
-package defaultmethods;
-
 public interface Card extends Comparable<Card> {
     
     public enum Suit { 

@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.dnd.TopLevelTransferHandlerDemoProject.dnd ;
 
-
-
-package dnd;
-
 import javax.swing.*;
 import javax.swing.event.*;
 import java.awt.*;

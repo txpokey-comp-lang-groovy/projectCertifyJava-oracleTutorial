@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.misc.TablePrintDemo3Project.misc ;
 
-
-
-package misc;
-
 import javax.swing.*;
 import javax.swing.table.*;
 import java.awt.*;

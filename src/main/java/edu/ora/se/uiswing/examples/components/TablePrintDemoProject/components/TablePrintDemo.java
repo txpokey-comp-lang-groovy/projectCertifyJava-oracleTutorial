@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.TablePrintDemoProject.components ;
 
-
-
-package components;
-
 /*
  * TablePrintDemo.java requires no other files.
  */

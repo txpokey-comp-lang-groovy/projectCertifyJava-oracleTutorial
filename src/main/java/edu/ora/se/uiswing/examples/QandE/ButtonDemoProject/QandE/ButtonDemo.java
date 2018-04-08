@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.QandE.ButtonDemoProject.QandE ;
 
-
-
-package QandE;
-
 import javax.swing.AbstractButton;
 import javax.swing.JButton;
 import javax.swing.JPanel;

@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.events.FocusEventDemoProject.events ;
 
-
-
-package events;
-
 /*
  * FocusEventDemo.java
  *

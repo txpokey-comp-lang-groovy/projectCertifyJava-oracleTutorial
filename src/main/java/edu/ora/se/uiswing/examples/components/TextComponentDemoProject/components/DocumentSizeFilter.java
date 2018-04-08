@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.TextComponentDemoProject.components ;
 
-
-
-package components;
-
 /* A 1.4 class used by TextComponentDemo.java. */
 
 import javax.swing.*;

@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.misc.DesktopDemoProject.misc ;
 
-
-
-package misc;
-
 /*
  * DesktopDemo.java
  *

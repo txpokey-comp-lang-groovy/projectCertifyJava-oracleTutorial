@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.misc.FocusTraversalDemoProject.misc ;
 
-
-
-package misc;
-
 import java.awt.*;
 import java.awt.event.*;
 

@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.TextInputDemoProject.components ;
 
-
-
-package components;
-
 import javax.swing.*;
 import javax.swing.SpringLayout;
 import java.awt.*;

@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.TextSamplerDemoProject.components ;
 
-
-
-package components;
-
 /*
  * TextSamplerDemo.java requires the following files:
  *   TextSamplerDemoHelp.html (which references images/dukeWaveRed.gif)

@@ -32,8 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.SpinnerDemo3Project.components ;
 
-
-
 /*
  * Based on SpinnerDemo, this application listens for
  * changes in a spinner's values.  Specifically, we listen
@@ -43,8 +41,6 @@ package edu.ora.se.uiswing.examples.components.SpinnerDemo3Project.components ;
  *   SpringUtilities.java
  *   CyclingSpinnerListModel.java
  */
-
-package components;
 
 import javax.swing.*;
 import java.awt.Color;

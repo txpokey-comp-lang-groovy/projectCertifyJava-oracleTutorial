@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.misc.InputVerificationDemoProject.misc ;
 
-
-
-package misc;
-
 import java.util.Set;
 import java.util.HashSet;
 

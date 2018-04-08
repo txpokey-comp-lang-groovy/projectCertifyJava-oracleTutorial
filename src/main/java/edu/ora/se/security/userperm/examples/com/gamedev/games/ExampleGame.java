@@ -32,14 +32,7 @@
 
 package edu.ora.se.security.userperm.examples.com.gamedev.games ;
 
-
-
-package com.gamedev.games;
-
-import java.io.*;
-import java.security.*;
-import java.util.Hashtable;
-import com.scoredev.scores.*;
+import edu.ora.se.security.userperm.examples.com.scoredev.scores.HighScore;
 
 public class ExampleGame
 {

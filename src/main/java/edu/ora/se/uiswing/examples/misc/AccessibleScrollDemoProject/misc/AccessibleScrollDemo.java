@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.misc.AccessibleScrollDemoProject.misc ;
 
-
-
-package misc;
-
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

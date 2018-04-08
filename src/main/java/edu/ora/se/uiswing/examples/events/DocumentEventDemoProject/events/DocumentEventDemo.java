@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.events.DocumentEventDemoProject.events ;
 
-
-
-package events;
-
 /*
  * DocumentEventDemo.java requires no other files.
  */

@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.layout.BoxAlignmentDemoProject.layout ;
 
-
-
-package layout;
-
 /*
  * BoxAlignmentDemo.java requires the following files:
  *   images/middle.gif

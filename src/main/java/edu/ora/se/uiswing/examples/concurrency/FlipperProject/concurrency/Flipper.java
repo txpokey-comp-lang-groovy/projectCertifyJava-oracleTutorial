@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.concurrency.FlipperProject.concurrency ;
 
-
-
-package concurrency;
-
 import java.util.List;
 import java.util.Random;
 import java.awt.event.ActionListener;

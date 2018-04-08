@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.misc.TextBatchPrintingDemoProject.misc ;
 
-
-
-package misc;
-
 /*
  * TextBatchPrintingDemo.java requires the following files:
  * index.html

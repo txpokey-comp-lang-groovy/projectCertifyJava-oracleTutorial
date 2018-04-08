@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.painting.SwingPaintDemo1Project.painting ;
 
-
-
-package painting;
-
 import javax.swing.SwingUtilities;
 import javax.swing.JFrame;
 

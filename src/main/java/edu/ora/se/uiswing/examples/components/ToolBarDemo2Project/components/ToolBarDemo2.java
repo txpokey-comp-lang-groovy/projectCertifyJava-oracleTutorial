@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.ToolBarDemo2Project.components ;
 
-
-
-package components;
-
 /*
  * ToolBarDemo2.java requires the following addditional files:
  * images/Back24.gif

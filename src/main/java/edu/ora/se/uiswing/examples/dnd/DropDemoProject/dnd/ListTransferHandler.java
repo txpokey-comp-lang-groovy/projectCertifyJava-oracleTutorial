@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.dnd.DropDemoProject.dnd ;
 
-
-
-package dnd;
-
 /*
  * ListTransferHandler.java is used by the DropDemo example.
  */

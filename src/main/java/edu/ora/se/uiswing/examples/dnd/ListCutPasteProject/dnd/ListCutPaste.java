@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.dnd.ListCutPasteProject.dnd ;
 
-
-
-package dnd;
-
 /**
  * ListCutPaste.java requires the following files:
  *     ListTransferHandler.java

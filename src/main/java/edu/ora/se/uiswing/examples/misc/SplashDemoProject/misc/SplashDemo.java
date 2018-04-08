@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.misc.SplashDemoProject.misc ;
 
-
-
-package misc;
-
 /*
  * SplashDemo.java
  *

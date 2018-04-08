@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.dnd.BasicDnDProject.dnd ;
 
-
-
-package dnd;
-
 /*
  * BasicDnD.java requires no other files.
  */

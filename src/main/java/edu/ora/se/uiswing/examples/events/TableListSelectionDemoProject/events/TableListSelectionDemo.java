@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.events.TableListSelectionDemoProject.events ;
 
-
-
-package events;
-
 /*
  * TableListSelectionDemo.java requires no other files.
  */

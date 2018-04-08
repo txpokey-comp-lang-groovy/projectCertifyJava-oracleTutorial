@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.events.MouseEventDemoProject.events ;
 
-
-
-package events;
-
 /*
  * BlankArea.java is used by:
  *    MouseEventDemo.java.

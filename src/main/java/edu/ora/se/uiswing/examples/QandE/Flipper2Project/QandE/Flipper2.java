@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.QandE.Flipper2Project.QandE ;
 
-
-
-package QandE;
-
 import java.util.List;
 import java.util.Random;
 import java.awt.event.ActionListener;

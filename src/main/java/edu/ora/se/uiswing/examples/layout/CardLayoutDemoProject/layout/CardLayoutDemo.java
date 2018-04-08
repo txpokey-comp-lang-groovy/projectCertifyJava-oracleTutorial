@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.layout.CardLayoutDemoProject.layout ;
 
-
-
-package layout;
-
 /*
  * CardLayoutDemo.java
  *

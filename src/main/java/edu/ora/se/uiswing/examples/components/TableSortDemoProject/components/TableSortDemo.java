@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.TableSortDemoProject.components ;
 
-
-
-package components;
-
 /*
  * TableSortDemo.java requires no other files.
  */

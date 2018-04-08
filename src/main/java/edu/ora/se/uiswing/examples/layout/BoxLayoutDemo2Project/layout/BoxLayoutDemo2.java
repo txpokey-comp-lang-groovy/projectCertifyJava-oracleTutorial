@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.layout.BoxLayoutDemo2Project.layout ;
 
-
-
-package layout;
-
 /*
  * BoxLayoutDemo2.java requires one other file:  BLDComponent.java
  */

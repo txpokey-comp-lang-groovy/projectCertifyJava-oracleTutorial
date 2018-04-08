@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.layout.CustomLayoutDemoProject.layout ;
 
-
-
-package layout;
-
 /*
  * CustomLayoutDemo.java requires one other file:
  *   DiagonalLayout.java

@@ -32,10 +32,6 @@
 
 package edu.ora.se.jdbc.basics.examples.JDBCTutorial.com.oracle.tutorial.jdbc ;
 
-
-
-package com.oracle.tutorial.jdbc;
-
 import java.sql.CallableStatement;
 import java.sql.Connection;
 import java.sql.ResultSet;

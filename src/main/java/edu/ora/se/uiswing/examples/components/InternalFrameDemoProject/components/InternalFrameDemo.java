@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.InternalFrameDemoProject.components ;
 
-
-
-package components;
-
 import javax.swing.JInternalFrame;
 import javax.swing.JDesktopPane;
 import javax.swing.JMenu;

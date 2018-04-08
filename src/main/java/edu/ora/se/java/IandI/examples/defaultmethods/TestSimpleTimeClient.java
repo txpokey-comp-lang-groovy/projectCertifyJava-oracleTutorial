@@ -32,10 +32,6 @@
 
 package edu.ora.se.java.IandI.examples.defaultmethods ;
 
-
-
-package defaultmethods;
- 
 import java.time.*;
 import java.lang.*;
 import java.util.*;

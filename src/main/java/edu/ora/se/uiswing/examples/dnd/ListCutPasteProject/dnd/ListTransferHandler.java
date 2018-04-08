@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.dnd.ListCutPasteProject.dnd ;
 
-
-
-package dnd;
-
 /*
  * ListTransferHandler.java is used by the ListCutPaste example.
  */

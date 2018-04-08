@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.layout.AbsoluteLayoutDemoProject.layout ;
 
-
-
-package layout;
-
 /*
  * AbsoluteLayoutDemo.java requires no other files.
  */

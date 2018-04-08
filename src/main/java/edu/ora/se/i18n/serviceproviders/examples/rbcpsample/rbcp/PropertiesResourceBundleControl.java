@@ -32,10 +32,6 @@
 
 package edu.ora.se.i18n.serviceproviders.examples.rbcpsample.rbcp ;
 
-
-
-package rbcp;
-
 import java.io.*;
 import java.net.*;
 import java.util.*;

@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.painting.IconDisplayerProject.painting ;
 
-
-
-package painting;
-
 /* 
  * IconDisplayer.java requires the following files:
  *   images/rocketship.gif

@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.SharedModelDemoProject.components ;
 
-
-
-package components;
-
 import javax.swing.*;
 import javax.swing.event.*;
 import javax.swing.table.*;

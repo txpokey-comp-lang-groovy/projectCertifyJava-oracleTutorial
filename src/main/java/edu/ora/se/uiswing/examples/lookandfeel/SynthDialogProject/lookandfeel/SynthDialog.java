@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.lookandfeel.SynthDialogProject.lookandfeel ;
 
-
-
-package lookandfeel;
-
 import java.awt.Component;
 import javax.swing.*;
 import static javax.swing.GroupLayout.Alignment.*;

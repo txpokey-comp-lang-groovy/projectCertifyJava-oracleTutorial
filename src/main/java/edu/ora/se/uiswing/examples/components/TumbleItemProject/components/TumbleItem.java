@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.TumbleItemProject.components ;
 
-
-
-package components;
-
 import javax.swing.ImageIcon;
 import javax.swing.JApplet;
 import javax.swing.JComponent;

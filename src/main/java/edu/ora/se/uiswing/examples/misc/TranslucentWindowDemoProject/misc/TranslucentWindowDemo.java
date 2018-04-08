@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.misc.TranslucentWindowDemoProject.misc ;
 
-
-
-package misc;
-
 import java.awt.*;
 import javax.swing.*;
 import static java.awt.GraphicsDevice.WindowTranslucency.*;

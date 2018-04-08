@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.TreeIconDemo2Project.components ;
 
-
-
-package components;
-
 /**
  * A 1.4 application that requires the following additional files:
  *   TreeDemoHelp.html

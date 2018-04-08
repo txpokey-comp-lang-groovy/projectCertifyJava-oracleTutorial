@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.QandE.LunarPhasesRBProject.QandE ;
 
-
-
-package QandE;
-
 /*
  * LunarPhasesRB.java requires the following files:
  *    images/image0.jpg

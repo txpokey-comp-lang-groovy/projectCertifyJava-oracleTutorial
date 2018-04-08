@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.PasswordDemoProject.components ;
 
-
-
-package components;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

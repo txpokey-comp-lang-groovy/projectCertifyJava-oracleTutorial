@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.layout.BorderLayoutDemoProject.layout ;
 
-
-
-package layout;
-
 /*
  * BorderLayoutDemo.java
  *

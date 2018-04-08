@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.layout.GraphPaperTestProject.layout ;
 
-
-
-package layout;
-
 /*
  * GridLayoutDemo.java requires one other file:
  *   GraphPaperLayout.java

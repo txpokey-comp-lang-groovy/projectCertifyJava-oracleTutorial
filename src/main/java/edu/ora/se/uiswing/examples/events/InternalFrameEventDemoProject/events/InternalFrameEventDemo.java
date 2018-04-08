@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.events.InternalFrameEventDemoProject.events ;
 
-
-
-package events;
-
 /*
  * InternalFrameEventDemo.java requires no other files.
  */

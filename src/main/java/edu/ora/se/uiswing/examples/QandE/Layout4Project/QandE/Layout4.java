@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.QandE.Layout4Project.QandE ;
 
-
-
-package QandE;
-
 import java.awt.BorderLayout;
 import java.awt.CardLayout;
 import java.awt.Color;

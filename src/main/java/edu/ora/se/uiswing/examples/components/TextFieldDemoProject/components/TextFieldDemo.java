@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.TextFieldDemoProject.components ;
 
-
-
-package components;
-
 /*
  * TextFieldDemo.java requires one additional file:
  * content.txt

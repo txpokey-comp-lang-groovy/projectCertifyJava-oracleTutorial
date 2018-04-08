@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.SpinnerDemo3Project.components ;
 
-
-
-package components;
-
 import javax.swing.SpinnerModel;
 import javax.swing.SpinnerListModel;
 

@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.events.ListDataEventDemoProject.events ;
 
-
-
-package events;
-
 /*
  * ListDataEventDemo.java requires the Java Look and Feel Graphics
  * Repository (jlfgr-1_0.jar).  You can download this file from

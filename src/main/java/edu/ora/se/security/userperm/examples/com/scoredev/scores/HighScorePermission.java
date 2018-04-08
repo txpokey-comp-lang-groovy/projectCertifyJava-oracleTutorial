@@ -32,10 +32,6 @@
 
 package edu.ora.se.security.userperm.examples.com.scoredev.scores ;
 
-
-
-package com.scoredev.scores;
-
 import java.security.*;
 
 public final class HighScorePermission extends BasicPermission {

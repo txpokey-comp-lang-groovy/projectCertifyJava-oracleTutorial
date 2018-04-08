@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.misc.TrackFocusDemoProject.misc ;
 
-
-
-package misc;
-
 /*
  * Picture.java is used by the 1.4
  * TrackFocusDemo.java and DragPictureDemo.java examples.

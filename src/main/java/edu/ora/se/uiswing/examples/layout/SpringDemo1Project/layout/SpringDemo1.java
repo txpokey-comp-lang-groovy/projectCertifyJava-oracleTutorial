@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.layout.SpringDemo1Project.layout ;
 
-
-
-package layout;
-
 import javax.swing.SpringLayout;
 import javax.swing.JFrame;
 import javax.swing.JLabel;

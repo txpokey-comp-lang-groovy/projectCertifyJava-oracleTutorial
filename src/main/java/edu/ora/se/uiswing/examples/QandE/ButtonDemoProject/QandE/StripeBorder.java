@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.QandE.ButtonDemoProject.QandE ;
 
-
-
-package QandE;
-
 import javax.swing.border.Border;
 import java.awt.Color;
 import java.awt.Component;

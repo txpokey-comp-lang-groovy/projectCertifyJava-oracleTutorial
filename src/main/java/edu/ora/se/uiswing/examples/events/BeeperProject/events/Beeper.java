@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.events.BeeperProject.events ;
 
-
-
-package events;
-
 /*
  * Beeper.java requires no other files.
  */

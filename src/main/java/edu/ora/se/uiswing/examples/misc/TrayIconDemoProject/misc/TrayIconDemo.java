@@ -32,9 +32,6 @@
 
 package edu.ora.se.uiswing.examples.misc.TrayIconDemoProject.misc ;
 
-
-
-package misc;  
 /*
  * TrayIconDemo.java
  */

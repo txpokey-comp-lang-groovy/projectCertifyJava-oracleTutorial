@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.events.TreeExpandEventDemo2Project.events ;
 
-
-
-package events;
-
 /*
  * TreeExpandEventDemo2.java requires no other files.
  */

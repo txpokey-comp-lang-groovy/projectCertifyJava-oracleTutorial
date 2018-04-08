@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.layout.SpringGridProject.layout ;
 
-
-
-package layout;
-
 /*
  * A 1.4 application that uses SpringLayout to lay out a grid.
  * Other files required: SpringUtilities.java

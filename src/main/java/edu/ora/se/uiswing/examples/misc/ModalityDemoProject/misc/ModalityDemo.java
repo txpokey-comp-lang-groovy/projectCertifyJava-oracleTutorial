@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.misc.ModalityDemoProject.misc ;
 
-
-
-package misc;
-
 /*
  * ModalityDemo.java
  *

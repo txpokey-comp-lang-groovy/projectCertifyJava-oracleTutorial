@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.lookandfeel.SynthApplicationProject.lookandfeel ;
 
-
-
-package lookandfeel;
-
 /*
  * SynthApplication.java requires a Synth XML file.
  * It should be in the class directory. Also required

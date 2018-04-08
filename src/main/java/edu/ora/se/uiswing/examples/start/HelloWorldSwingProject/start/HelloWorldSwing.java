@@ -32,8 +32,6 @@
 
 package edu.ora.se.uiswing.examples.start.HelloWorldSwingProject.start ;
 
-
-
 /**
  * This example, like all Swing examples, exists in a package:
  * in this case, the "start" package.
@@ -47,7 +45,6 @@ package edu.ora.se.uiswing.examples.start.HelloWorldSwingProject.start ;
  * use the Swing examples as-is from the command line, see
  * http://docs.oracle.com/javase/javatutorials/tutorial/uiswing/start/compile.html#package
  */
-package start;
 
 /*
  * HelloWorldSwing.java requires no other files. 

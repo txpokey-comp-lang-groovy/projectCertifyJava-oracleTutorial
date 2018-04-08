@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.TableFTFEditDemoProject.components ;
 
-
-
-package components;
-
 /*
  * SimpleTableDemo.java requires no other files.
  */

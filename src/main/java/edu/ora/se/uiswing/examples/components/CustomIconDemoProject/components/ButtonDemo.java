@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.CustomIconDemoProject.components ;
 
-
-
-package components;
-
 import javax.swing.AbstractButton;
 import javax.swing.JButton;
 import javax.swing.JPanel;

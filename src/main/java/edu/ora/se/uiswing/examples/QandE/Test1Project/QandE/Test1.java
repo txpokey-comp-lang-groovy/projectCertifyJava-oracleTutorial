@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.QandE.Test1Project.QandE ;
 
-
-
-package QandE;
-
 //v 1.3
 import javax.swing.*;          
 import java.awt.*;

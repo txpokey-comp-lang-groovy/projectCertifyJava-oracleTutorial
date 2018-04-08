@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.dnd.TextCutPasteProject.dnd ;
 
-
-
-package dnd;
-
 /**
  * TextTransferHandler.java is used by the TextCutPaste.java example.
  */

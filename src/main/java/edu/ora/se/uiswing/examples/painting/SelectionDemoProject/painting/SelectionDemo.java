@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.painting.SelectionDemoProject.painting ;
 
-
-
-package painting;
-
 /* 
  * SelectionDemo.java requires one other file:
  *   images/starfield.gif

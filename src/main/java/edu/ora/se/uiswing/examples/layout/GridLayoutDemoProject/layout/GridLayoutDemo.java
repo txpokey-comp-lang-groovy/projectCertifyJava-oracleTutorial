@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.layout.GridLayoutDemoProject.layout ;
 
-
-
-package layout;
-
 /*
  * GridLayoutDemo.java
  *

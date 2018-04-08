@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.events.ListSelectionDemoProject.events ;
 
-
-
-package events;
-
 /*
  * ListSelectionDemo.java requires no other files.
  */

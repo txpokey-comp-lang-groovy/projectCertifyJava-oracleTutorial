@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.events.MouseMotionEventDemoProject.events ;
 
-
-
-package events;
-
 /*
  * MouseMotionEventDemo.java
  *

@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.layout.TabDemoProject.layout ;
 
-
-
-package layout;
-
 /*
  * TabDemo.java
  */

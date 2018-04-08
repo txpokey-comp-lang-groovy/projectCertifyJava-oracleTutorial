@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.events.MouseWheelEventDemoProject.events ;
 
-
-
-package events;
-
 /*
 * MouseWheelEventDemo.java
 */

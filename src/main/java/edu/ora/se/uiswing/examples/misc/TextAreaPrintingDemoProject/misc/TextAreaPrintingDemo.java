@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.misc.TextAreaPrintingDemoProject.misc ;
 
-
-
-package misc;
-
 /*
  * TextAreaPrintingDemo.java requires the following files:
  * toprint.txt

@@ -29,12 +29,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
-
 package edu.ora.se.uiswing.examples.QandE.Layout1Project.QandE ;
-
-
-
-package QandE;
 
 import javax.swing.BorderFactory;
 import javax.swing.JComponent;

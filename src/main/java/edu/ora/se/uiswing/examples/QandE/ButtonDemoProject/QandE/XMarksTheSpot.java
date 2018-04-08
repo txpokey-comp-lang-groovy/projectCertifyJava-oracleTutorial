@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.QandE.ButtonDemoProject.QandE ;
 
-
-
-package QandE;
-
 import javax.swing.JComponent;
 import javax.swing.BorderFactory;
 import java.awt.BasicStroke;

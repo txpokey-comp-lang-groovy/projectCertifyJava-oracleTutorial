@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.layout.FlowLayoutDemoProject.layout ;
 
-
-
-package layout;
-
 /*
 *
 * FlowLayoutDemo.java

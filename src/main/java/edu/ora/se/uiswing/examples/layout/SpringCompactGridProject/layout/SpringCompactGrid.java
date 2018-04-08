@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.layout.SpringCompactGridProject.layout ;
 
-
-
-package layout;
-
 /*
  * A 1.4 application that uses SpringLayout to create a compact grid.
  * Other files required: SpringUtilities.java.

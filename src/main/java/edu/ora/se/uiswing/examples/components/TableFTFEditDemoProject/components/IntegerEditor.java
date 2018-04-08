@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.TableFTFEditDemoProject.components ;
 
-
-
-package components;
-
 /*
  * IntegerEditor is used by TableFTFEditDemo.java.
  */

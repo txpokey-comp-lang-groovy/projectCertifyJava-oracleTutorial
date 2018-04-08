@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.QandE.MyDemo3Project.QandE ;
 
-
-
-package QandE;
-
 /*
  * MyDemo3.java requires no other files. 
  */

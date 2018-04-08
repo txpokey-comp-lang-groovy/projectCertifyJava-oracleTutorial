@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.painting.CoordinatesDemoProject.painting ;
 
-
-
-package painting;
-
 /* CoordinatesDemo.java requires no other files. */
 
 import javax.swing.*;

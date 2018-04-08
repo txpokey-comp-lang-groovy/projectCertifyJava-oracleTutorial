@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.TabbedPaneDemoProject.components ;
 
-
-
-package components;
-
 /*
  * TabbedPaneDemo.java requires one additional file:
  *   images/middle.gif.

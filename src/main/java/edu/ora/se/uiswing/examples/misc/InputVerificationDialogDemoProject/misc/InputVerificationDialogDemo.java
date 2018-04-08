@@ -32,12 +32,9 @@
 
 package edu.ora.se.uiswing.examples.misc.InputVerificationDialogDemoProject.misc ;
 
-
-
 /*
  * InputVerificationDialogDemo.java requires no other files.
  */
-package misc;
 
 import java.util.Set;
 import java.util.HashSet;

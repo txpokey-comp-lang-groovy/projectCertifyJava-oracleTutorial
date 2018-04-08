@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.layout.SpringCompactGridProject.layout ;
 
-
-
-package layout;
-
 import javax.swing.*;
 import javax.swing.SpringLayout;
 import java.awt.*;

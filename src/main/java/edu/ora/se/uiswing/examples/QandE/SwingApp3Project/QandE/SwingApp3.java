@@ -33,9 +33,6 @@
 package edu.ora.se.uiswing.examples.QandE.SwingApp3Project.QandE ;
 
 
-
-package QandE;
-
 /*
  * This is a 1.3 version (thanks to JFrame.EXIT_ON_CLOSE)
  * but could easily be converted to work in earlier releases.

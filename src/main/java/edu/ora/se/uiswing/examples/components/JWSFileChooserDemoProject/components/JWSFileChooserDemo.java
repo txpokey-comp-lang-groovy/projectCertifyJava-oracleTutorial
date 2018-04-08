@@ -32,19 +32,12 @@
 
 package edu.ora.se.uiswing.examples.components.JWSFileChooserDemoProject.components ;
 
-
-
-package components;
-
+import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
-import javax.swing.*;
-import javax.swing.filechooser.*;
-import javax.swing.SwingUtilities;
-import javax.jnlp.*;
 
 /* 
  * JWSFileChooserDemo.java must be compiled with jnlp.jar.  For

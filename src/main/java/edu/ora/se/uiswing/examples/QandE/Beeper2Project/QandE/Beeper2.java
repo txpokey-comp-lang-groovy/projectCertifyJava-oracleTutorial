@@ -33,9 +33,6 @@
 package edu.ora.se.uiswing.examples.QandE.Beeper2Project.QandE ;
 
 
-
-package QandE;
-
 /*
  * Beeper2.java is a version of the 1.4 Beeper.java example
  * that allows the user to select from 1 to 10 beeps and then

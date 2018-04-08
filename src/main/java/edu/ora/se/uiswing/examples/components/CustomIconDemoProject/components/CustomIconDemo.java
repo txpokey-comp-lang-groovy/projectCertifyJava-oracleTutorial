@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.CustomIconDemoProject.components ;
 
-
-
-package components;
-
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

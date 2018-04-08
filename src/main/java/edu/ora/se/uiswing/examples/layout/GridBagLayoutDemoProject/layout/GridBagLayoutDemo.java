@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.layout.GridBagLayoutDemoProject.layout ;
 
-
-
-package layout;
-
 /*
  * GridBagLayoutDemo.java requires no other files.
  */

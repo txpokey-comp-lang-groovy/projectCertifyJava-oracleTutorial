@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.events.ComponentEventDemoProject.events ;
 
-
-
-package events;
-
 /*
  * ComponentEventDemo.java requires no other files.
  */

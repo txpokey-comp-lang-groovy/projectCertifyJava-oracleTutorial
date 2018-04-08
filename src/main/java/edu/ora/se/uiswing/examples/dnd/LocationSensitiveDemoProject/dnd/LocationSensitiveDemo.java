@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.dnd.LocationSensitiveDemoProject.dnd ;
 
-
-
-package dnd;
-
 import javax.swing.*;
 import javax.swing.tree.*;
 import javax.swing.event.*;

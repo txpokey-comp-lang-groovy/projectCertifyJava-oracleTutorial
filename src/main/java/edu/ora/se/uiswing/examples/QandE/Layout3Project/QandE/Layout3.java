@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.QandE.Layout3Project.QandE ;
 
-
-
-package QandE;
-
 import javax.swing.BorderFactory;
 import javax.swing.Box;
 import javax.swing.BoxLayout;

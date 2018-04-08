@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.ScrollDemo2Project.components ;
 
-
-
-package components;
-
 /*
  * This code is based on an example provided by John Vella,
  * a tutorial reader.

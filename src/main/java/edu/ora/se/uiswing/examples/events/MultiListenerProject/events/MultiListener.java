@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.events.MultiListenerProject.events ;
 
-
-
-package events;
-
 /*
  * Swing version
  */

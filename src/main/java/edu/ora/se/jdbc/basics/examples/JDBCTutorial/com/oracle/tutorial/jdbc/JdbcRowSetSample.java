@@ -33,9 +33,6 @@
 package edu.ora.se.jdbc.basics.examples.JDBCTutorial.com.oracle.tutorial.jdbc ;
 
 
-
-package com.oracle.tutorial.jdbc;
-
 import com.sun.rowset.JdbcRowSetImpl;
 
 import java.sql.Connection;

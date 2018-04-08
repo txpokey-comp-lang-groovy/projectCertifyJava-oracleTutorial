@@ -32,10 +32,6 @@
 
 package edu.ora.se.jdbc.basics.examples.JDBCTutorial.com.oracle.tutorial.jdbc ;
 
-
-
-package com.oracle.tutorial.jdbc;
-
 import com.sun.rowset.CachedRowSetImpl;
 
 import com.sun.rowset.FilteredRowSetImpl;

@@ -32,10 +32,6 @@
 
 package edu.ora.se.java.IandI.examples.defaultmethods ;
 
-
-
-package defaultmethods; 
- 
 public class PlayingCard implements Card {
     
     private Card.Rank rank;

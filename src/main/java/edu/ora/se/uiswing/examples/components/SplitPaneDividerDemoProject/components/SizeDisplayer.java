@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.components.SplitPaneDividerDemoProject.components ;
 
-
-
-package components;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.font.*;

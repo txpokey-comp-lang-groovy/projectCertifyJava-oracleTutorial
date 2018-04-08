@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.misc.ActionDemoProject.misc ;
 
-
-
-package misc;
-
 /*
  * This relies on having the Java Look and Feel Graphics Repository
  * (jlfgr-1_0.jar) in the class path.  You can download this file

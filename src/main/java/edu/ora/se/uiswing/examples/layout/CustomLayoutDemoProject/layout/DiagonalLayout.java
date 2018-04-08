@@ -32,10 +32,6 @@
 
 package edu.ora.se.uiswing.examples.layout.CustomLayoutDemoProject.layout ;
 
-
-
-package layout;
-
 /*
  * 1.2+ version.  Used by CustomLayoutDemo.java.
  */
