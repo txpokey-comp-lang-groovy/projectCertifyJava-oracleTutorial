@@ -32,9 +32,7 @@
 
 package edu.ora.se.java.javaOO.examples.two ;
 
-
-
-import one.*;
+import edu.ora.se.java.javaOO.examples.one.Alpha;
 
 public class AlphaTwo extends Alpha {
     public static void main(String[] args) {

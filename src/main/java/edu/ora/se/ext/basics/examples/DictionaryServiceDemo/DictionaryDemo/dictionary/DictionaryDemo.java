@@ -29,13 +29,9 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-
 package edu.ora.se.ext.basics.examples.DictionaryServiceDemo.DictionaryDemo.dictionary ;
 
-
-
-
-import dictionary.DictionaryService;
+import edu.ora.se.ext.basics.examples.DictionaryServiceDemo.DictionaryServiceProvider.dictionary.DictionaryService;
 
 public class DictionaryDemo {
 

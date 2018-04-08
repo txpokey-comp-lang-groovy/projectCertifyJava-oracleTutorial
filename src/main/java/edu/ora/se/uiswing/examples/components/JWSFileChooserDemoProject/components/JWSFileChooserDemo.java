@@ -32,6 +32,7 @@
 
 package edu.ora.se.uiswing.examples.components.JWSFileChooserDemoProject.components ;
 
+import javax.jnlp.*;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -96,7 +97,7 @@ public class JWSFileChooserDemo extends JPanel
             FileContents fileContents = null;
 
             try {
-                fos = (FileOpenService)ServiceManager.
+                fos = (FileOpenService) ServiceManager.
                           lookup("javax.jnlp.FileOpenService"); 
             } catch (UnavailableServiceException exc) { }
 

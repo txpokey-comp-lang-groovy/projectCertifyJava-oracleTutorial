@@ -29,13 +29,10 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
-
 package edu.ora.se.rmi.examples.client ;
 
+import edu.ora.se.rmi.examples.compute.Task;
 
-
-
-import compute.Task;
 import java.io.Serializable;
 import java.math.BigDecimal;
 

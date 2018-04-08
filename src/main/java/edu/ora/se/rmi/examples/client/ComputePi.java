@@ -29,16 +29,13 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
-
 package edu.ora.se.rmi.examples.client ;
 
+import edu.ora.se.rmi.examples.compute.Compute;
 
-
-
+import java.math.BigDecimal;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
-import java.math.BigDecimal;
-import compute.Compute;
 
 public class ComputePi {
     public static void main(String args[]) {

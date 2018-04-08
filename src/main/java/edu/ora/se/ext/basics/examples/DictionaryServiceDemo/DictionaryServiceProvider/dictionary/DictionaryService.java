@@ -32,10 +32,8 @@
 
 package edu.ora.se.ext.basics.examples.DictionaryServiceDemo.DictionaryServiceProvider.dictionary ;
 
+import edu.ora.se.ext.basics.examples.DictionaryServiceDemo.DictionaryServiceProvider.dictionary.spi.Dictionary;
 
-
-
-import dictionary.spi.Dictionary;
 import java.util.Iterator;
 import java.util.ServiceConfigurationError;
 import java.util.ServiceLoader;
