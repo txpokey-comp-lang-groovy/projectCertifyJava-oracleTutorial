@@ -48,8 +48,8 @@ import javax.sql.rowset.JoinRowSet;
 public class JoinSample {
   
   Connection con;
-  JDBCTutorialUtilities settings;  
-  
+  JDBCTutorialUtilities settings;
+
   public JoinSample(Connection connArg, JDBCTutorialUtilities settingsArg) {
     this.con = connArg;
     this.settings = settingsArg;
@@ -76,7 +76,8 @@ public class JoinSample {
       if (stmt != null) { stmt.close(); }
     }
   }
-  
+
+  @SuppressWarnings("all")
   public void testJoinRowSet(String supplierName) throws SQLException {
     
     CachedRowSet coffees = null;
@@ -96,8 +97,8 @@ public class JoinSample {
       suppliers.setUsername(settings.userName);
       suppliers.setPassword(settings.password);
       suppliers.setUrl(settings.urlString);
-      suppliers.execute();      
-      
+      suppliers.execute();
+
       jrs = new JoinRowSetImpl();
       jrs.addRowSet(coffees, "SUP_ID");
       jrs.addRowSet(suppliers, "SUP_ID");

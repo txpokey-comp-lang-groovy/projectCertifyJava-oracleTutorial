@@ -73,8 +73,8 @@ public class CachedRowSetSample {
 
 
   }
-  
 
+  @SuppressWarnings("all")
   public void testPaging() throws SQLException, MalformedURLException {
 
     CachedRowSet crs = null;

@@ -54,10 +54,11 @@ public class CheckedRAFTest {
         } catch (FileNotFoundException e) {
             System.err.println("CheckedIOTest: " + e);
             System.exit(-1);
-        } catch (IOException e) {
-            System.err.println("CheckedIOTest: " + e);
-            System.exit(-1);
         }
+//        catch (IOException e) {
+//            System.err.println("CheckedIOTest: " + e);
+//            System.exit(-1);
+//        }
 
         boolean EOF = false;
 

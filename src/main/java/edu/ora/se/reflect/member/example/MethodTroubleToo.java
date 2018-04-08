@@ -39,6 +39,7 @@ import java.lang.reflect.Method;
 public class MethodTroubleToo {
     public void ping() { System.out.format("PONG!%n"); }
 
+	@SuppressWarnings("all")
     public static void main(String... args) {
 	try {
 	    MethodTroubleToo mtt = new MethodTroubleToo();

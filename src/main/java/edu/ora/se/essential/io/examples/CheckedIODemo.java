@@ -57,10 +57,11 @@ public class CheckedIODemo {
        } catch (FileNotFoundException e) {
            System.err.println("CheckedIODemo: " + e);
            System.exit(-1);
-       } catch (IOException e) {
-           System.err.println("CheckedIODemo: " + e);
-           System.exit(-1);
        }
+//       catch (IOException e) {
+//           System.err.println("CheckedIODemo: " + e);
+//           System.exit(-1);
+//       }
 
        int c;
 

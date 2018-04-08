@@ -57,10 +57,11 @@ public class CheckedRAFDemo {
         } catch (FileNotFoundException e) {
             System.err.println("CheckedIODemo: " + e);
             System.exit(-1);
-        } catch (IOException e) {
-            System.err.println("CheckedIODemo: " + e);
-            System.exit(-1);
         }
+//        catch (IOException e) {
+//            System.err.println("CheckedIODemo: " + e);
+//            System.exit(-1);
+//        }
 
         boolean EOF = false;
 
