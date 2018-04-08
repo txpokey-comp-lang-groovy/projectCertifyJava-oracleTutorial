@@ -34,7 +34,6 @@ package edu.ora.se.deployment.applet.examples.applet_CustomProgressIndicator.cus
 
 
 
-package customprogressindicator;
 
 import javax.jnlp.DownloadServiceListener;
 import java.awt.Container;

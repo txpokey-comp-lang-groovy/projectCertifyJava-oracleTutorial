@@ -34,7 +34,6 @@ package edu.ora.se.deployment.applet.examples.applet_InvokingJavaScriptFromApple
 
 
 
-package javatojs;
 
 import java.applet.Applet;
 import netscape.javascript.*; // add plugin.jar to classpath during compilation

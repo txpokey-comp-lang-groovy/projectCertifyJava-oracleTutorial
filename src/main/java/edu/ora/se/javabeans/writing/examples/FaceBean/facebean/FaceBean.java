@@ -34,7 +34,6 @@ package edu.ora.se.javabeans.writing.examples.FaceBean.facebean ;
 
 
 
-package facebean;
 
 import java.awt.*;
 import javax.swing.*;

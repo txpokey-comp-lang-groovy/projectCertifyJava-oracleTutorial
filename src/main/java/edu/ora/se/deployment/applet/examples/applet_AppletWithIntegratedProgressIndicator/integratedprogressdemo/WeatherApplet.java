@@ -34,7 +34,6 @@ package edu.ora.se.deployment.applet.examples.applet_AppletWithIntegratedProgres
 
 
 
-package integratedprogressdemo;
 
 import javax.swing.JApplet;
 import javax.swing.SwingUtilities;

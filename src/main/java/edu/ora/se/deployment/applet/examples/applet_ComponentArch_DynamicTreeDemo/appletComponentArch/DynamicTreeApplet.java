@@ -33,7 +33,6 @@
 package edu.ora.se.deployment.applet.examples.applet_ComponentArch_DynamicTreeDemo.appletComponentArch ;
 
 
-package appletComponentArch;
 
 import javax.swing.JApplet;
 import javax.swing.SwingUtilities;

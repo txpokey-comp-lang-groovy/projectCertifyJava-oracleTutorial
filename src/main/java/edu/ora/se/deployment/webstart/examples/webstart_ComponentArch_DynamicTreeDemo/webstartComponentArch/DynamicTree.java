@@ -34,7 +34,6 @@ package edu.ora.se.deployment.webstart.examples.webstart_ComponentArch_DynamicTr
 
 
 
-package webstartComponentArch;
 
 /*
  * This code is based on an example provided by Richard Stanford, 

@@ -34,7 +34,6 @@ package edu.ora.se.deployment.webstart.examples.webstart_CustomProgressIndicator
 
 
 
-package customprogressindicator;
 
 import javax.jnlp.DownloadServiceListener;
 import java.awt.Color;

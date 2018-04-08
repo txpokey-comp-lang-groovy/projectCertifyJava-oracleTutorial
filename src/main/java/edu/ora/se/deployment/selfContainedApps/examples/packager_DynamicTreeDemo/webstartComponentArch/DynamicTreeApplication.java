@@ -33,7 +33,6 @@
 package edu.ora.se.deployment.selfContainedApps.examples.packager_DynamicTreeDemo.webstartComponentArch ;
 
 
-package webstartComponentArch;
 
 import javax.swing.JFrame;
 

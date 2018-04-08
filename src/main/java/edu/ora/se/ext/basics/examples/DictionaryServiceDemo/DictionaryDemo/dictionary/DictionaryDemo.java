@@ -34,7 +34,6 @@ package edu.ora.se.ext.basics.examples.DictionaryServiceDemo.DictionaryDemo.dict
 
 
 
-package dictionary;
 
 import dictionary.DictionaryService;
 

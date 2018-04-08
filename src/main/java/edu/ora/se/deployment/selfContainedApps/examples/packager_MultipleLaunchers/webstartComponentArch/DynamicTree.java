@@ -34,7 +34,6 @@ package edu.ora.se.deployment.selfContainedApps.examples.packager_MultipleLaunch
 
 
 
-package webstartComponentArch;
 
 /*
  * This code is based on an example provided by Richard Stanford, 

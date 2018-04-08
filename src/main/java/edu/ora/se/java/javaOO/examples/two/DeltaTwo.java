@@ -34,7 +34,6 @@ package edu.ora.se.java.javaOO.examples.two ;
 
 
 
-package two;
 import one.*;
 
 public class DeltaTwo {

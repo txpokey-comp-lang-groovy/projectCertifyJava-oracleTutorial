@@ -34,7 +34,6 @@ package edu.ora.se.deployment.applet.examples.applet_AppletWithIntegratedProgres
 
 
 
-package integratedprogressdemo;
 import javax.jnlp.DownloadServiceListener;
 import java.awt.Container;
 import java.awt.BorderLayout;

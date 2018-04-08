@@ -34,7 +34,6 @@ package edu.ora.se.deployment.selfContainedApps.examples.packager_FileAssociatio
 
 
 
-package sample.fa;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;

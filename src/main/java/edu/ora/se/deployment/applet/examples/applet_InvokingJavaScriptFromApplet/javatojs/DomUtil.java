@@ -34,7 +34,6 @@ package edu.ora.se.deployment.applet.examples.applet_InvokingJavaScriptFromApple
 
 
 
-package javatojs;
 
 import  org.w3c.dom.bootstrap.DOMImplementationRegistry;
 import  org.w3c.dom.*;

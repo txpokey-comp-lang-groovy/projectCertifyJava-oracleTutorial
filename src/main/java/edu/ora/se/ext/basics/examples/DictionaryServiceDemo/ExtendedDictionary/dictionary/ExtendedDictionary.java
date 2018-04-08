@@ -34,7 +34,6 @@ package edu.ora.se.ext.basics.examples.DictionaryServiceDemo.ExtendedDictionary.
 
 
 
-package dictionary;
 
 import dictionary.spi.Dictionary;
 import java.util.SortedMap;

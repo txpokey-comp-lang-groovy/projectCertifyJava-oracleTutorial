@@ -34,7 +34,6 @@ package edu.ora.se.java.javaOO.examples.one ;
 
 
 
-package one;
 
 public class Alpha {
 

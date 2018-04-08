@@ -34,7 +34,6 @@ package edu.ora.se.rmi.examples.compute ;
 
 
 
-package compute;
 
 public interface Task<T> {
     T execute();

@@ -34,7 +34,6 @@ package edu.ora.se.i18n.serviceproviders.examples.rbcpsample.rbcp ;
 
 
 
-package rbcp;
 
 import java.util.ResourceBundle;
 import java.util.spi.ResourceBundleControlProvider;

@@ -34,7 +34,6 @@ package edu.ora.se.rmi.examples.compute ;
 
 
 
-package compute;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;

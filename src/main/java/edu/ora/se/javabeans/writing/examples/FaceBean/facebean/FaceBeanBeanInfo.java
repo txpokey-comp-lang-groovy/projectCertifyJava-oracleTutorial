@@ -37,7 +37,6 @@ package edu.ora.se.javabeans.writing.examples.FaceBean.facebean ;
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package facebean;
 
 import java.beans.*;
 

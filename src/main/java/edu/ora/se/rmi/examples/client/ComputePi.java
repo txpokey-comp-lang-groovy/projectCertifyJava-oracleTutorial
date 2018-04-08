@@ -34,7 +34,6 @@ package edu.ora.se.rmi.examples.client ;
 
 
 
-package client;
 
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;

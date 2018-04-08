@@ -34,7 +34,6 @@ package edu.ora.se.java.javaOO.examples.one ;
 
 
 
-package one;
 
 public class DeltaOne {
     public static void main(String[] args) {

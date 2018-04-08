@@ -34,7 +34,6 @@ package edu.ora.se.deployment.applet.examples.applet_InvokingAppletMethodsFromJa
 
 
 
-package jstojava;
 
 public class Calculator {
     private int a = 0;

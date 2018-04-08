@@ -34,7 +34,6 @@ package edu.ora.se.deployment.applet.examples.applet_ComponentArch_DynamicTreeDe
 
 
 
-package appletComponentArch;
 
 /*
  * This code is based on an example provided by Richard Stanford, 

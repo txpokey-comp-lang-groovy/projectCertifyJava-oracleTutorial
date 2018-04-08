@@ -34,7 +34,6 @@ package edu.ora.se.deployment.applet.examples.applet_InvokingAppletMethodsFromJa
 
 
  
-package jstojava;
 import java.applet.Applet;
 
 public class MathApplet extends Applet{

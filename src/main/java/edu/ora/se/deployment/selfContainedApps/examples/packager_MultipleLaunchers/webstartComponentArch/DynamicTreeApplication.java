@@ -33,7 +33,6 @@
 package edu.ora.se.deployment.selfContainedApps.examples.packager_MultipleLaunchers.webstartComponentArch ;
 
 
-package webstartComponentArch;
 
 import javax.swing.JFrame;
 
