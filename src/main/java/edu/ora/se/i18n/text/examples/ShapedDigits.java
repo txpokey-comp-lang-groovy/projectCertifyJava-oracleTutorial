@@ -28,6 +28,11 @@
  */
 
 
+
+
+package edu.ora.se.i18n.text.examples ;
+
+
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;

@@ -30,6 +30,11 @@
  */ 
 
 
+package edu.ora.se.2d.images.examples ;
+
+
+
+
 import java.applet.Applet;
 import java.awt.*;
 import java.awt.image.*;

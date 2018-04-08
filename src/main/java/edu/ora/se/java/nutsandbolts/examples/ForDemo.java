@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.nutsandbolts.examples ;
+
+
+
 class ForDemo {
     public static void main(String[] args){
          for(int i=1; i<11; i++){

@@ -30,6 +30,11 @@
  */
 
 
+package edu.ora.se.i18n.text.examples ;
+
+
+
+
 /**
  * This example displays ASCII digits, 0 through 9, as Arabit digits.
  */

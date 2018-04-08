@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+
+package edu.ora.se.deployment.applet.examples.applet_AppletWithParameters ;
+
+
+
 import javax.swing.JApplet;
 import javax.swing.SwingUtilities;
 import javax.swing.JLabel;

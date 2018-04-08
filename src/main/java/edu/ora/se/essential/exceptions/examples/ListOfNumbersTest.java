@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.essential.exceptions.examples ;
+
+
+
 public class ListOfNumbersTest {
     public static void main(String[] args) {
         ListOfNumbers list = new ListOfNumbers();

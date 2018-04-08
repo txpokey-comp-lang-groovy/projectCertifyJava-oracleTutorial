@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.reflect.member.example ;
+
+
+
 import java.io.Console;
 import java.nio.charset.Charset;
 import java.lang.reflect.Constructor;

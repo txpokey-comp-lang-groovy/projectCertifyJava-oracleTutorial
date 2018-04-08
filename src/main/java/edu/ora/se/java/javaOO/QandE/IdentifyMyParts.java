@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.javaOO.QandE ;
+
+
+
 public class IdentifyMyParts {
     public static int x = 7;
     public int y = 3;

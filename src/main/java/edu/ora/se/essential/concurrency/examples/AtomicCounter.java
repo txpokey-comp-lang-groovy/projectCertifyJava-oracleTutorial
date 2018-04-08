@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.essential.concurrency.examples ;
+
+
+
 import java.util.concurrent.atomic.AtomicInteger;
 
 class AtomicCounter {

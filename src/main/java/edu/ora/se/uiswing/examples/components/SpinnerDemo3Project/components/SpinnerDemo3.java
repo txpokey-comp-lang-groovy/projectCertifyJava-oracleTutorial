@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.uiswing.examples.components.SpinnerDemo3Project.components ;
+
+
+
 /*
  * Based on SpinnerDemo, this application listens for
  * changes in a spinner's values.  Specifically, we listen

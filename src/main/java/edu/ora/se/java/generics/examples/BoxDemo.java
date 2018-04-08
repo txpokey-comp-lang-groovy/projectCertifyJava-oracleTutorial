@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+
+package edu.ora.se.java.generics.examples ;
+
+
+
 public class BoxDemo {
 
   public static <U> void addBox(U u, java.util.List<Box<U>> boxes) {

@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.getStarted.application.examples ;
+
+
+
 /** 
  * The HelloWorldApp class implements an application that
  * simply prints "Hello World!" to standard output.

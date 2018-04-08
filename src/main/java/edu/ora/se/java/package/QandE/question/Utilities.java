@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.package.QandE.question ;
+
+
+
 public class Utilities {
     // set DEBUG = false and compile to stop debug messages
     final static boolean DEBUG = true;

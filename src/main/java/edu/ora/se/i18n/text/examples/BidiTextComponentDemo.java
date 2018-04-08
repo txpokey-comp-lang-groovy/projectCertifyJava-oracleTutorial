@@ -30,6 +30,11 @@
  */
 
 
+package edu.ora.se.i18n.text.examples ;
+
+
+
+
 /*
  * BidiTextComponentDemo.java requires one additional file:
  *   DocumentSizeFilter.java

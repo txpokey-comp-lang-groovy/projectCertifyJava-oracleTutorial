@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.deployment.selfContainedApps.examples.packager_DynamicTreeDemo.webstartComponentArch ;
+
+
+
 package webstartComponentArch;
 
 /*

@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.extra.fullscreen.examples ;
+
+
+
 /**
  * This test shows the different buffer capabilities for each
  * GraphicsConfiguration on each GraphicsDevice.

@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.essential.exceptions.examples ;
+
+
+
 // Note: This class won't compile by design!
 // See InputFileDeclared.java for a version of this
 // class that will compile.

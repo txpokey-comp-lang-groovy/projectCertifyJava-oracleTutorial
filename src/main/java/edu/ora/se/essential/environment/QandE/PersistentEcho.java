@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.essential.environment.QandE ;
+
+
+
 import java.util.Properties;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

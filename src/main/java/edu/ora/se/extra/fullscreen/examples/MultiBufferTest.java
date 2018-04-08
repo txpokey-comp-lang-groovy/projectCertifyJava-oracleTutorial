@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.extra.fullscreen.examples ;
+
+
+
 /**
  * This test takes a number up to 13 as an argument (assumes 2 by
  * default) and creates a multiple buffer strategy with the number of

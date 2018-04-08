@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.javaOO.QandE ;
+
+
+
 public class SomethingIsRight {
     public static void main(String[] args) {
         Rectangle myRect = new Rectangle();

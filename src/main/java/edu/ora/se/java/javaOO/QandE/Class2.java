@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.javaOO.QandE ;
+
+
+
 public class Class2 extends Class1 {
     public Class2() {
 	ic = new InnerClass2();

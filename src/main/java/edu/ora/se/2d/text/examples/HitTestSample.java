@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+
+package edu.ora.se.2d.text.examples ;
+
+
+
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;

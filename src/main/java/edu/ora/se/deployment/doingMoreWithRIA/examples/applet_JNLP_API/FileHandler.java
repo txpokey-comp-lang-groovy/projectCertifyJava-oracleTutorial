@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+
+package edu.ora.se.deployment.doingMoreWithRIA.examples.applet_JNLP_API ;
+
+
+
 // add javaws.jar to the classpath during compilation 
 import javax.jnlp.FileOpenService;
 import javax.jnlp.FileSaveService;

@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.IandI.examples ;
+
+
+
 public class TestBikes {
   public static void main(String[] args){
     Bicycle bike01, bike02, bike03;

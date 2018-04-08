@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.jndi.objects.examples ;
+
+
+
 /**
   * This class is used by the SerObjWithCodebase example.
   * It is a Serializable class.

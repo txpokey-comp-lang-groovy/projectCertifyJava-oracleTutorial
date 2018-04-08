@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.getStarted.QandE ;
+
+
+
 /* Well, maybe this isn't completely useless. */
 
 /* This program uses API introduced in 1.1. */

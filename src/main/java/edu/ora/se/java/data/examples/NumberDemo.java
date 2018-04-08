@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.data.examples ;
+
+
+
 public class NumberDemo {
     public static void main(String args[]) {
         Float floatOne = new Float(14.78f - 13.78f);

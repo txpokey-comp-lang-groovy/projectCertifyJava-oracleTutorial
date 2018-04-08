@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.nutsandbolts.QandE ;
+
+
+
 class NestedIf {
     public static void main(String[] args) {
 	int aNumber = 3;

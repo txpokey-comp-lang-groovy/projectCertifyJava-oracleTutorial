@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.deployment.applet.examples ;
+
+
+
 /* 
  * Java(TM) SE 6
  * Code is the same as 1.0.

@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.data.examples ;
+
+
+
 public class ReverseString {
     public static String reverseIt(String source) {
         int i, len = source.length();

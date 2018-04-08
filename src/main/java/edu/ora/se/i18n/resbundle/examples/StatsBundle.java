@@ -30,6 +30,11 @@
  */ 
 
 
+package edu.ora.se.i18n.resbundle.examples ;
+
+
+
+
 import java.util.*;
 
 public class StatsBundle extends ListResourceBundle {

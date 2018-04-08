@@ -29,6 +29,11 @@
 * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
+
+package edu.ora.se.essential.concurrency.examples ;
+
+
+
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.util.concurrent.ForkJoinPool;

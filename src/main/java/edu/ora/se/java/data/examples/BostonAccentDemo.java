@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.data.examples ;
+
+
+
 // This example demonstrates the use of the replace method
 // in the String class.
 

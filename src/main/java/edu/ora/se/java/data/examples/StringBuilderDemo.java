@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.data.examples ;
+
+
+
 public class StringBuilderDemo {
     public static void main(String[] args) {
         String palindrome = "Dot saw I was Tod";

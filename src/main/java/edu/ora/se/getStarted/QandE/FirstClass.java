@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.getStarted.QandE ;
+
+
+
 /* This class uses API introduced in 1.1. */
 
 import java.util.Locale;

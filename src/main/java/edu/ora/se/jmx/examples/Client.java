@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.jmx.examples ;
+
+
+
 /*
  * Client.java - JMX client that interacts with the JMX agent. It gets
  * attributes and performs operations on the Hello MBean and the QueueSampler

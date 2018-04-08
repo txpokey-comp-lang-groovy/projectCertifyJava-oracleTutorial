@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.reflect.member.example ;
+
+
+
 import java.lang.reflect.Field;
 import java.lang.reflect.Modifier;
 import static java.lang.System.out;

@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.reflect.special.example ;
+
+
+
 import java.io.BufferedReader;
 import java.io.CharArrayReader;
 import java.io.FileNotFoundException;

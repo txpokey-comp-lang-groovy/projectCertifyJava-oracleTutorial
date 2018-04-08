@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.i18n.text.examples ;
+
+
+
 /* A class used by TextComponentDemo.java. */
 
 import javax.swing.*;

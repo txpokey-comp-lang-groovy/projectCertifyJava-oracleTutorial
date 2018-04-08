@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.uiswing.examples.QandE.Test1Project.QandE ;
+
+
+
 package QandE;
 
 //v 1.3

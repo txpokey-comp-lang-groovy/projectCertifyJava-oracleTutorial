@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.reflect.member.example ;
+
+
+
 public class ConstructorTrouble {
     private ConstructorTrouble(int i) {}
 

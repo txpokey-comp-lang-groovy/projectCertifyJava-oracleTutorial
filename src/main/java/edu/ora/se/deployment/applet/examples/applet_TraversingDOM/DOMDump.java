@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+
+package edu.ora.se.deployment.applet.examples.applet_TraversingDOM ;
+
+
+
 import java.lang.reflect.*;
 import org.w3c.dom.*;
 import org.w3c.dom.html.*;

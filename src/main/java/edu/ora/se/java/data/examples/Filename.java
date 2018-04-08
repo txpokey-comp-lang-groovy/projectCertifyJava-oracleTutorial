@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.data.examples ;
+
+
+
 /**
  * This class assumes that the string used to initialize
  * fullPath has a directory path, filename, and extension.

@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.essential.io.examples ;
+
+
+
 /*
  * This class is an example only. A "final" version of
  * this class should implement the DataOutput interface

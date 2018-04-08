@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+
+package edu.ora.se.deployment.doingMoreWithRIA.examples.applet_JNLP_API ;
+
+
+
 import javax.swing.*;
 import java.awt.Dimension;
 import java.awt.event.*;

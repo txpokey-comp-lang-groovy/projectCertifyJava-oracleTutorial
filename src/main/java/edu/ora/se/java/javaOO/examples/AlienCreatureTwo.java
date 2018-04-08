@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.javaOO.examples ;
+
+
+
 class AlienCreatureTwo extends AlienCreature {
     String live(){
         String living="We alien twos live happily on alien two nutrition.";

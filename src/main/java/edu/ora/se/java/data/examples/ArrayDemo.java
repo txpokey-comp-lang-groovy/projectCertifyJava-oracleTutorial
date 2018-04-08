@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.data.examples ;
+
+
+
 public class ArrayDemo {
     public static void main(String[] args) {
         int[] anArray;	        // declare an array of integers

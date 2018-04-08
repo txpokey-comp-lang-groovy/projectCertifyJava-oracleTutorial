@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.uiswing.examples.layout.SpringBoxProject.layout ;
+
+
+
 package layout;
 
 import javax.swing.*;

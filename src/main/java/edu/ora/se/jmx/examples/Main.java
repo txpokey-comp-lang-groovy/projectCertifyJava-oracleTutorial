@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.jmx.examples ;
+
+
+
 /*
  * Main.java - main class for the Hello MBean and QueueSampler MXBean example.
  * Create the Hello MBean and QueueSampler MXBean, register them in the platform

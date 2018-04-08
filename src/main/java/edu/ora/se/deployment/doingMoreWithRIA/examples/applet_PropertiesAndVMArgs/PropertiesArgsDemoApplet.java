@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+
+package edu.ora.se.deployment.doingMoreWithRIA.examples.applet_PropertiesAndVMArgs ;
+
+
+
 import javax.swing.JApplet;
 import javax.swing.SwingUtilities;
 import javax.swing.JLabel;

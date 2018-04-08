@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.nutsandbolts.examples ;
+
+
+
 class BlockDemo {
     public static void main(String[] args) {
         boolean condition = true;

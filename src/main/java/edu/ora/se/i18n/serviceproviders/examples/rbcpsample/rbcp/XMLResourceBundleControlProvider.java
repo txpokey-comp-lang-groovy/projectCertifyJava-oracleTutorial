@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.i18n.serviceproviders.examples.rbcpsample.rbcp ;
+
+
+
 package rbcp;
 
 import java.util.ResourceBundle;

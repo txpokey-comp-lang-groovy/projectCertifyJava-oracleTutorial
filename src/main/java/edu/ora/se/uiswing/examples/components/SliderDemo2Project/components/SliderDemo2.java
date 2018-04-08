@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.uiswing.examples.components.SliderDemo2Project.components ;
+
+
+
 package components;
 
 import java.awt.*;

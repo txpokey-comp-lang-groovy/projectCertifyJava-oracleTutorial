@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.jndi.software.config ;
+
+
+
 /*
  * Creates a schema for storing Java objects according to RFC 2713
  * After running this program, you should verify that the schema 

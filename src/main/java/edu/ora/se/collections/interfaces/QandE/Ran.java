@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.collections.interfaces.QandE ;
+
+
+
 import java.util.*;
 
 public class Ran {

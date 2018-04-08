@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.IandI.examples ;
+
+
+
 public class Bicycle {
 
     // the Bicycle class has three fields

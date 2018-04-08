@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+
+package edu.ora.se.java.nutsandbolts.examples ;
+
+
+
 public class StringSwitchDemo {
 
     public static int getMonthNumber(String month) {

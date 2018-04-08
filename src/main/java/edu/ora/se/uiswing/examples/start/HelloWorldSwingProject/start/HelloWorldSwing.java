@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.uiswing.examples.start.HelloWorldSwingProject.start ;
+
+
+
 /**
  * This example, like all Swing examples, exists in a package:
  * in this case, the "start" package.

@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.jndi.ldap.examples ;
+
+
+
 import javax.naming.*;
 import javax.naming.ldap.*;
 import javax.naming.event.*;

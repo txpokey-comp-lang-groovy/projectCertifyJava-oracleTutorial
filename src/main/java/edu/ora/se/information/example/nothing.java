@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.information.example ;
+
+
+
 /* 
  * If this were a real example, this file would have source
  * code compatible with the JDK 1.0.2 release.

@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.essential.concurrency.examples ;
+
+
+
 public class Drop {
     // Message sent from producer
     // to consumer.

@@ -30,6 +30,11 @@
  */
 
 
+package edu.ora.se.deployment.doingMoreWithRIA.examples.applet_AccessingCookies ;
+
+
+
+
 import java.applet.Applet;
 
 public class CookieApplet extends Applet {

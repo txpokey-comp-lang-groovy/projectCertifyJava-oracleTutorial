@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.security.tour1.examples ;
+
+
+
 /**
   * By default, this applet raises a security exception, unless
   *  you configure your policy to allow applets from its location

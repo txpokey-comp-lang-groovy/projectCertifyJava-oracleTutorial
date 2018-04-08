@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.generics.examples ;
+
+
+
 /**
  * Generic version of the Box class.
  * @param <T> the type of value being boxed

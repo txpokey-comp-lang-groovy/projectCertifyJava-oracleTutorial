@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.networking.datagrams.examples ;
+
+
+
 public class MulticastServer {
     public static void main(String[] args) throws java.io.IOException {
         new MulticastServerThread().start();

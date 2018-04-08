@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.reflect.special.example ;
+
+
+
 import java.lang.reflect.Field;
 
 enum E0 { A, B }

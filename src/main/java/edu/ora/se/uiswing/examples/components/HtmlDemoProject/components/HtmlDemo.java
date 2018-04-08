@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.uiswing.examples.components.HtmlDemoProject.components ;
+
+
+
 package components;
 
 /* HtmlDemo.java needs no other files. */

@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.essential.concurrency.examples ;
+
+
+
 public class SynchronizedRGB {
 
     // Values must be between 0 and 255.

@@ -28,6 +28,11 @@
  * NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
+
+
+package edu.ora.se.datetime.iso.examples ;
+
+
 /* 
  * Calculate the span of time from today until your birthday, assuming your
  * birthday occured on January 1st. The calculation is done using both

@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.uiswing.examples.painting.CoordinatesDemoProject.painting ;
+
+
+
 package painting;
 
 /* CoordinatesDemo.java requires no other files. */

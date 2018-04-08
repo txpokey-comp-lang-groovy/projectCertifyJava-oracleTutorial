@@ -30,6 +30,11 @@
  */
 
 
+package edu.ora.se.i18n.locale.examples ;
+
+
+
+
 /* ThaiDigits.java requires no other files. */
 import java.awt.*;
 import java.text.NumberFormat;

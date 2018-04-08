@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+
+package edu.ora.se.jdbc.basics.examples.JDBCTutorial.com.oracle.tutorial.jdbc ;
+
+
+
 package com.oracle.tutorial.jdbc;
 
 import com.sun.rowset.CachedRowSetImpl;

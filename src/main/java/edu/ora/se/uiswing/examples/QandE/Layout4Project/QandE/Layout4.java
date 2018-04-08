@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.uiswing.examples.QandE.Layout4Project.QandE ;
+
+
+
 package QandE;
 
 import java.awt.BorderLayout;

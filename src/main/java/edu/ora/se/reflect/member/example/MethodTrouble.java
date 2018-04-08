@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.reflect.member.example ;
+
+
+
 import java.lang.reflect.Method;
 
 public class MethodTrouble<T>  {

@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+
+package edu.ora.se.ext.basics.examples.DictionaryServiceDemo.GeneralDictionary.dictionary ;
+
+
+
 package dictionary;
 
 import dictionary.spi.Dictionary;

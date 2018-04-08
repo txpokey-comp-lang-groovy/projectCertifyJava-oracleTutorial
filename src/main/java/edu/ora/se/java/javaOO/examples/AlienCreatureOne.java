@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.javaOO.examples ;
+
+
+
 //nonabstract subclass 1
 class AlienCreatureOne extends AlienCreature {
     String live(){

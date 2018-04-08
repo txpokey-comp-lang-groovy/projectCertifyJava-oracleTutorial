@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.uiswing.examples.components.TextComponentDemoProject.components ;
+
+
+
 package components;
 
 /* A 1.4 class used by TextComponentDemo.java. */

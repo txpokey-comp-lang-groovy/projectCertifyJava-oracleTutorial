@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.jmx.examples ;
+
+
+
 /*
  * QueueSampler.java - MXBean implementation for the QueueSampler MXBean.
  * This class must implement all the Java methods declared in the

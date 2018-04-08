@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.essential.concurrency.QandE ;
+
+
+
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.SynchronousQueue;
 

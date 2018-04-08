@@ -30,6 +30,11 @@
  */ 
 
 
+package edu.ora.se.2d.images.examples ;
+
+
+
+
 import java.io.*;
 import java.util.TreeSet;
 import java.awt.*;

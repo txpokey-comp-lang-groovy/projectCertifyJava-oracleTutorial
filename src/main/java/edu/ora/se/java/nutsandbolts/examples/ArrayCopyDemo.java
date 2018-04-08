@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.nutsandbolts.examples ;
+
+
+
 class ArrayCopyDemo {
     public static void main(String[] args) {
         char[] copyFrom = { 'd', 'e', 'c', 'a', 'f', 'f', 'e',

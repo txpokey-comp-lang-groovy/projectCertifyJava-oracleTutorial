@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+
+package edu.ora.se.deployment.webstart.examples.webstart_CustomProgressIndicator.customprogressindicator ;
+
+
+
 package customprogressindicator;
 
 import javax.jnlp.DownloadServiceListener;

@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.jmx.examples ;
+
+
+
 /*
  * QueueSample.java - Java type representing a snapshot of a given queue.
  * It bundles together the instant time the snapshot was taken, the queue

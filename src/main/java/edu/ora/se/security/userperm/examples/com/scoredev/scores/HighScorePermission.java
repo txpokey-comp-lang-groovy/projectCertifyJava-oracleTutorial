@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.security.userperm.examples.com.scoredev.scores ;
+
+
+
 package com.scoredev.scores;
 
 import java.security.*;

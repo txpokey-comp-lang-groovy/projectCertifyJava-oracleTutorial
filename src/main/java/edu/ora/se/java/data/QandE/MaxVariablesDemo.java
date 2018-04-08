@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.data.QandE ;
+
+
+
 public class MaxVariablesDemo {
     public static void main(String args[]) {
 

@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.2d.images.examples ;
+
+
+
 /*
  * @(#)ImageOps.java	1.2 98/07/09
  */

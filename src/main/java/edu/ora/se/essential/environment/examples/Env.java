@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.essential.environment.examples ;
+
+
+
 public class Env {
     public static void main (String[] args) {
         for (String env: args) {

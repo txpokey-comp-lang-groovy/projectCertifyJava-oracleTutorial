@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.jmx.examples ;
+
+
+
 /*
  * HelloMBean.java - MBean interface describing the management operations and
  * attributes for the Hello World MBean. In this case there are two operations,

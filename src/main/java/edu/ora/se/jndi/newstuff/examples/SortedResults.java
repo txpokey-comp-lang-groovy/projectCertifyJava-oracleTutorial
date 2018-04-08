@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.jndi.newstuff.examples ;
+
+
+
 import java.util.Hashtable;
 import java.io.*;
 

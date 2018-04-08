@@ -28,6 +28,11 @@
 * NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
+
+
+package edu.ora.se.uiswing.examples.misc.WallpaperProject ;
+
+
 import java.awt.*;
 import javax.swing.*;
 import javax.swing.plaf.LayerUI;

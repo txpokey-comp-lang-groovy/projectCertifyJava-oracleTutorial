@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+
+package edu.ora.se.deployment.webstart.examples.webstart_AppWithCustomProgressIndicator.customprogressindicatordemo ;
+
+
+
 package customprogressindicatordemo;
 
 import javax.swing.JTable;

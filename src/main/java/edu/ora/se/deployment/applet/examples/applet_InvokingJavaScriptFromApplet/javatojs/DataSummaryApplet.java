@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+
+package edu.ora.se.deployment.applet.examples.applet_InvokingJavaScriptFromApplet.javatojs ;
+
+
+
 package javatojs;
 
 import java.applet.Applet;

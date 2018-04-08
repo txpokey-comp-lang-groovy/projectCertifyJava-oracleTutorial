@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+
+package edu.ora.se.deployment.doingMoreWithRIA.examples.applet_AccessingCookies ;
+
+
+
 import java.net.*;
 import java.util.*;
 

@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.IandI.examples.defaultmethods ;
+
+
+
 package defaultmethods;
 
 public interface Card extends Comparable<Card> {

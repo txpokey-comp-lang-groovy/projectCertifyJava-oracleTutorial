@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.extra.fullscreen.examples ;
+
+
+
 /*
   test @(#)DisplayModeTest.java	1.4 01/07/17
   @bug 4189326

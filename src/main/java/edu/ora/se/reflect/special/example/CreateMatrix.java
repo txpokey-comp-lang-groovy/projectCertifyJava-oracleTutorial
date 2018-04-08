@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.reflect.special.example ;
+
+
+
 import java.lang.reflect.Array;
 import static java.lang.System.out;
 

@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.uiswing.examples.misc.TablePrintDemo2Project.misc ;
+
+
+
 package misc;
 
 import javax.swing.*;

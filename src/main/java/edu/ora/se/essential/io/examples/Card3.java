@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.essential.io.examples ;
+
+
+
 import java.io.Serializable;
 
 public class Card3 implements Serializable {

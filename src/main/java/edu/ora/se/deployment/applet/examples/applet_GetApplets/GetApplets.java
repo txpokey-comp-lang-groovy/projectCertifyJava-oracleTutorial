@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.deployment.applet.examples.applet_GetApplets ;
+
+
+
 import javax.swing.*;
 import java.applet.*;
 import java.awt.*;

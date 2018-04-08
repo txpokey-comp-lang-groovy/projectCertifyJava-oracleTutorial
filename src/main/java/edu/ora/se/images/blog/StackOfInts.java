@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.images.blog ;
+
+
+
 public class StackOfInts {
     private int[] stack;
       //index of last item in the stack + 1

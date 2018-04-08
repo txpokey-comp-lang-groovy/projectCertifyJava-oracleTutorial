@@ -30,6 +30,11 @@
  */ 
 
 
+package edu.ora.se.java.IandI.examples ;
+
+
+
+
 public interface Relatable {
 	
    // this (object calling isLargerThan) and

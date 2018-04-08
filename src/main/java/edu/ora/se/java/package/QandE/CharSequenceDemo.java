@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.package.QandE ;
+
+
+
 // CharSequenceDemo presents a String value -- backwards.
 public class CharSequenceDemo implements CharSequence {
     private String s;

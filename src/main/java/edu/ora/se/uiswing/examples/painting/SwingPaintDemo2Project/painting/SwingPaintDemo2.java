@@ -30,6 +30,11 @@
  */ 
 
 
+package edu.ora.se.uiswing.examples.painting.SwingPaintDemo2Project.painting ;
+
+
+
+
 package painting;
 
 import javax.swing.SwingUtilities;

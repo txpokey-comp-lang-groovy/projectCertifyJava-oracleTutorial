@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.jmx.examples ;
+
+
+
 /*
  * QueueSamplerMXBean.java - MXBean interface describing the management
  * operations and attributes for the QueueSampler MXBean. In this case

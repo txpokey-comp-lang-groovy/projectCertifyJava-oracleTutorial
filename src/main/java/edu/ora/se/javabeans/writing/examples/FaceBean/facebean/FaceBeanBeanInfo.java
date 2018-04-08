@@ -28,6 +28,11 @@
  * NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
+
+
+package edu.ora.se.javabeans.writing.examples.FaceBean.facebean ;
+
+
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.

@@ -30,6 +30,11 @@
  */ 
 
 
+package edu.ora.se.2d.text.examples ;
+
+
+
+
 import java.awt.*;
 import java.text.*;
 import java.awt.font.TextAttribute;

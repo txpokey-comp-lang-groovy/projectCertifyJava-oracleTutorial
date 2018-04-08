@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.essential.io.examples ;
+
+
+
 public class Adler32 implements Checksum {
     private int value = 1;
 

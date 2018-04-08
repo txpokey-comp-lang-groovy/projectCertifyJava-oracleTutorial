@@ -30,6 +30,11 @@
  */ 
 
 
+package edu.ora.se.2d.text.examples ;
+
+
+
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

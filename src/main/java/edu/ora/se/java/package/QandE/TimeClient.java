@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.package.QandE ;
+
+
+
 public interface TimeClient {
     public void setTime(int hour, int minute, int second);
     public void setDate(int day, int month, int year);

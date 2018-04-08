@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.java.IandI.examples ;
+
+
+
 public class RoadBike extends Bicycle{
   private int tireWidth; // In mm
 

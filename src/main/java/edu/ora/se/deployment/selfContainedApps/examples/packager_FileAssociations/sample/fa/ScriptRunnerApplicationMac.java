@@ -29,6 +29,11 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
+
+package edu.ora.se.deployment.selfContainedApps.examples.packager_FileAssociations.sample.fa ;
+
+
+
 package sample.fa;
 
 import com.apple.eawt.AppEvent;
