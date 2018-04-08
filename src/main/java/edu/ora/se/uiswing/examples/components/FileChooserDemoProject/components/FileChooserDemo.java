@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.FileChooserDemoProject.components
 
 
 
-package components;
 
 import java.io.*;
 import java.awt.*;

@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.TreeDemoProject.components ;
 
 
 
-package components;
 
 /**
  * This application that requires the following additional files:

@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.TableSorterDemoProject.components
 
 
 
-package components;
 
 import java.awt.*;
 import java.awt.event.*;

@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.TableDialogEditDemoProject.compon
 
 
 
-package components;
 
 /* 
  * ColorRenderer.java (compiles with releases 1.2, 1.3, and 1.4) is used by 

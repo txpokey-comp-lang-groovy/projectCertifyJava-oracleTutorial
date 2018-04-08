@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.ColorChooserDemo2Project.componen
 
 
 
-package components;
 
 import java.awt.*;
 import java.awt.event.*;

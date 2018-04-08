@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.ButtonDemoProject.components ;
 
 
 
-package components;
 
 import javax.swing.AbstractButton;
 import javax.swing.JButton;

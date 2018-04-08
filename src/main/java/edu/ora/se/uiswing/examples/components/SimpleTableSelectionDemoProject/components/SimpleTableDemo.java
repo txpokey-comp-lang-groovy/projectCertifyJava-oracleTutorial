@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.SimpleTableSelectionDemoProject.c
 
 
 
-package components;
 
 /*
  * SimpleTableDemo.java requires no other files.

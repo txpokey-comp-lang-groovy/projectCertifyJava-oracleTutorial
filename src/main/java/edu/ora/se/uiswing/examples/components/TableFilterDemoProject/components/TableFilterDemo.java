@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.TableFilterDemoProject.components
 
 
 
-package components;
 
 /*
  * TableFilterDemo.java requires SpringUtilities.java

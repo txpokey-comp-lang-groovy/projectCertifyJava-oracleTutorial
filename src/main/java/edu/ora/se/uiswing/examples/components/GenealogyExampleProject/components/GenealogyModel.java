@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.GenealogyExampleProject.component
 
 
 
-package components;
 
 import javax.swing.event.TreeModelEvent;
 import javax.swing.event.TreeModelListener;

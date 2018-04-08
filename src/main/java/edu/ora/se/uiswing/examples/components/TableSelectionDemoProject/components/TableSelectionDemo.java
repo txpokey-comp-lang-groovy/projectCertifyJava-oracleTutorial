@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.TableSelectionDemoProject.compone
 
 
 
-package components;
 
 /*
  * TableSelectionDemo.java requires no other files.

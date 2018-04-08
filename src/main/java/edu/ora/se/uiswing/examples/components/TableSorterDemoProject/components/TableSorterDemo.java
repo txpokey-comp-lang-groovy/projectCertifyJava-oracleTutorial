@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.TableSorterDemoProject.components
 
 
 
-package components;
 
 /*
  * TableSorterDemo.java requires this file:

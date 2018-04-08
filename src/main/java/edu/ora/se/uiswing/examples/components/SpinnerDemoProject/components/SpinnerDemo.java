@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.SpinnerDemoProject.components ;
 
 
 
-package components;
 
 /*
  * This application demonstrates using spinners.

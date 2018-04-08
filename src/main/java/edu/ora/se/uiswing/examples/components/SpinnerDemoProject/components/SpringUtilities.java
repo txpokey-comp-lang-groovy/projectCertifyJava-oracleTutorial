@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.SpinnerDemoProject.components ;
 
 
 
-package components;
 
 import javax.swing.*;
 import javax.swing.SpringLayout;

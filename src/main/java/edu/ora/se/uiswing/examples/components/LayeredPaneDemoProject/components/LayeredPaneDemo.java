@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.LayeredPaneDemoProject.components
 
 
 
-package components;
 
 import javax.swing.*;
 import javax.swing.border.*;

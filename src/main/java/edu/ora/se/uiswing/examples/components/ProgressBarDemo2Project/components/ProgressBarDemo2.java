@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.ProgressBarDemo2Project.component
 
 
 
-package components;
 
 import java.awt.*;
 import java.awt.event.*;

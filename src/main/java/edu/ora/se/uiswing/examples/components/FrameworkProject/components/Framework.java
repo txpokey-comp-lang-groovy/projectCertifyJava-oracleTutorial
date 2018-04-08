@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.FrameworkProject.components ;
 
 
 
-package components;
 
 import javax.swing.JDialog;
 import javax.swing.JFrame;

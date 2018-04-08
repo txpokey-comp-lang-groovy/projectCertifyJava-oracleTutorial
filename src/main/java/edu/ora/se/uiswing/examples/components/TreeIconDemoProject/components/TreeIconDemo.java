@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.TreeIconDemoProject.components ;
 
 
 
-package components;
 
 /**
  * A 1.4 application that requires the following additional files:

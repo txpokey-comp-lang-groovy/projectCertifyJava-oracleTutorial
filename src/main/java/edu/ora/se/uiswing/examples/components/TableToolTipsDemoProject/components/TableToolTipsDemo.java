@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.TableToolTipsDemoProject.componen
 
 
 
-package components;
 
 /* 
  * TableToolTipsDemo.java requires no other files.

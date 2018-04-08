@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.GlassPaneDemoProject.components ;
 
 
 
-package components;
 
 import javax.swing.*;
 import java.awt.*;

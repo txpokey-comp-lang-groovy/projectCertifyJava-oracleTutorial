@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.TableDialogEditDemoProject.compon
 
 
 
-package components;
 
 /*
  * TableDialogEditDemo.java requires these files:

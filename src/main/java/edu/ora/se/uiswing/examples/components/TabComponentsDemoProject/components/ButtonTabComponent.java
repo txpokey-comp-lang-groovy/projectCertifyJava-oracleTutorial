@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.TabComponentsDemoProject.componen
 
 
 
-package components;
 
 import javax.swing.*;
 import javax.swing.*;

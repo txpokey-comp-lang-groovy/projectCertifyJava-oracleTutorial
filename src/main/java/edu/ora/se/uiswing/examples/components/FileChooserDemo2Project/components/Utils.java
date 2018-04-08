@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.FileChooserDemo2Project.component
 
 
 
-package components;
 
 import java.io.File;
 import javax.swing.ImageIcon;

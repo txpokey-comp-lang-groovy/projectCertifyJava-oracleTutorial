@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.ConverterProject.components ;
 
 
 
-package components;
 
 /*
  * A 1.4 class used by the Converter example.

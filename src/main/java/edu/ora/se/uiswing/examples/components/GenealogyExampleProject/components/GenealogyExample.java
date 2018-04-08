@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.GenealogyExampleProject.component
 
 
 
-package components;
 
 /*
  * A 1.4 example that uses the following files:

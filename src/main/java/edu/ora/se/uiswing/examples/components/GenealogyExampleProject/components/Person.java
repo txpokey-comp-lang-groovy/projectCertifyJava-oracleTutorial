@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.GenealogyExampleProject.component
 
 
 
-package components;
 
 import java.util.Vector;
 

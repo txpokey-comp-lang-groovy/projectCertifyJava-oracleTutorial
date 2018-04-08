@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.DynamicTreeDemoProject.components
 
 
 
-package components;
 
 /*
  * This code is based on an example provided by Richard Stanford, 

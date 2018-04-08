@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.ListDialogRunnerProject.component
 
 
 
-package components;
 
 import javax.swing.*;
 import java.awt.*;

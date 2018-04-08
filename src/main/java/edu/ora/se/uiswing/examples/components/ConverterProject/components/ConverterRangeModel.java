@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.ConverterProject.components ;
 
 
 
-package components;
 
 /*
  * Works in 1.1+Swing, 1.4, and all releases in between.

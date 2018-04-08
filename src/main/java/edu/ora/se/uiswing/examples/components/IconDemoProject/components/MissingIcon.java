@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.IconDemoProject.components ;
 
 
 
-package components;
 
 import java.awt.BasicStroke;
 import java.awt.Color;

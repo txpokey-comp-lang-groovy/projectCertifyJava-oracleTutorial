@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.ToolBarDemoProject.components ;
 
 
 
-package components;
 
 /*
  * ToolBarDemo.java requires the following addditional files:

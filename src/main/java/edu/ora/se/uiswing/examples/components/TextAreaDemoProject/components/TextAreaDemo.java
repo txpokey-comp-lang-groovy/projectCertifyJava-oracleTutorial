@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.TextAreaDemoProject.components ;
 
 
 
-package components;
 
 /*
  * TextAreaDemo.java requires no other files.

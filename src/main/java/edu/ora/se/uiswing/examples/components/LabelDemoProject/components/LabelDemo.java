@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.LabelDemoProject.components ;
 
 
 
-package components;
 
 import java.awt.GridLayout;
 import java.awt.event.WindowAdapter;

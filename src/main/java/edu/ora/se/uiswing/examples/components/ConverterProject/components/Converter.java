@@ -34,7 +34,6 @@ package edu.ora.se.uiswing.examples.components.ConverterProject.components ;
 
 
 
-package components;
 
 /*
  * A application that requires the following files:
