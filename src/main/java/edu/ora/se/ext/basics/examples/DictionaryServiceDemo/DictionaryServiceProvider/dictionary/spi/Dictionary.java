@@ -34,7 +34,6 @@ package edu.ora.se.ext.basics.examples.DictionaryServiceDemo.DictionaryServicePr
 
 
 
-package dictionary.spi;
 
 public interface Dictionary {
     public String getDefinition(String word);
