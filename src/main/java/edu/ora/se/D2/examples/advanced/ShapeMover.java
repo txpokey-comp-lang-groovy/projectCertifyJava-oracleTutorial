@@ -30,10 +30,7 @@
  */
 
 
-package edu.ora.se.D2.examples.advanced
-
-.2d.advanced.examples ;
-
+package edu.ora.se.D2.examples.advanced;
 
 
 import java.awt.*;

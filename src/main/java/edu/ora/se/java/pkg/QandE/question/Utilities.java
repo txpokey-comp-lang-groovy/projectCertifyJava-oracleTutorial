@@ -30,7 +30,7 @@
  */ 
 
 
-package edu.ora.se.java.pkg.QandE.question package.QandE.question ;
+package edu.ora.se.java.pkg.QandE.question;
 
 
 

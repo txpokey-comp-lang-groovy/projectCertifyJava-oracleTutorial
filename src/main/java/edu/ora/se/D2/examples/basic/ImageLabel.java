@@ -30,9 +30,7 @@
  */ 
 
 
-package edu.ora.se.D2.examples.basic
-
-.2d.basic2d.examples ;
+package edu.ora.se.D2.examples.basic;
 
 
 
