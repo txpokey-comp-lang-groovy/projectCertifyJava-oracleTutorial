@@ -20,4 +20,12 @@ dependencies {
     compile 'org.codehaus.groovy:groovy-all:2.4.12'
     testCompile 'org.codehaus.groovy:groovy-all:2.4.12'
     compile group: 'commons-logging', name: 'commons-logging', version: '1.2'
+    // https://mvnrepository.com/artifact/javax.jnlp/jnlp
+//    compile group: 'javax.jnlp', name: 'jnlp', version: '1.2'
+// https://mvnrepository.com/artifact/org.jvnet.hudson/netx
+    compile group: 'org.jvnet.hudson', name: 'netx', version: '0.5-hudson-2'
+// https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-servlet-api
+    compile group: 'org.apache.tomcat', name: 'tomcat-servlet-api', version: '9.0.6'
+
+
 }
