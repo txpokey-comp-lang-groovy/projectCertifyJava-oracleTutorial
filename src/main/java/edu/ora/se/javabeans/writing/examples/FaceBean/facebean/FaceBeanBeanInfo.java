@@ -32,7 +32,6 @@
 
 package edu.ora.se.javabeans.writing.examples.FaceBean.facebean ;
 
-
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
@@ -46,10 +45,11 @@ import java.beans.*;
  */
 public class FaceBeanBeanInfo extends SimpleBeanInfo {
 
+    private static final Class<FaceBean> fbclass = FaceBean.class ;
     // Bean descriptor//GEN-FIRST:BeanDescriptor
     /*lazy BeanDescriptor*/
     private static BeanDescriptor getBdescriptor(){
-        BeanDescriptor beanDescriptor = new BeanDescriptor  ( facebean.FaceBean.class , null ); // NOI18N//GEN-HEADEREND:BeanDescriptor
+        BeanDescriptor beanDescriptor = new BeanDescriptor  (fbclass , null ); // NOI18N//GEN-HEADEREND:BeanDescriptor
 
         // Here you can add code for customizing the BeanDescriptor.
 
@@ -163,207 +163,207 @@ public class FaceBeanBeanInfo extends SimpleBeanInfo {
         PropertyDescriptor[] properties = new PropertyDescriptor[101];
     
         try {
-            properties[PROPERTY_accessibleContext] = new PropertyDescriptor ( "accessibleContext", facebean.FaceBean.class, "getAccessibleContext", null ); // NOI18N
+            properties[PROPERTY_accessibleContext] = new PropertyDescriptor ( "accessibleContext",fbclass, "getAccessibleContext", null ); // NOI18N
             properties[PROPERTY_accessibleContext].setHidden ( true );
-            properties[PROPERTY_actionMap] = new PropertyDescriptor ( "actionMap", facebean.FaceBean.class, "getActionMap", "setActionMap" ); // NOI18N
+            properties[PROPERTY_actionMap] = new PropertyDescriptor ( "actionMap",fbclass, "getActionMap", "setActionMap" ); // NOI18N
             properties[PROPERTY_actionMap].setHidden ( true );
-            properties[PROPERTY_alignmentX] = new PropertyDescriptor ( "alignmentX", facebean.FaceBean.class, "getAlignmentX", "setAlignmentX" ); // NOI18N
+            properties[PROPERTY_alignmentX] = new PropertyDescriptor ( "alignmentX",fbclass, "getAlignmentX", "setAlignmentX" ); // NOI18N
             properties[PROPERTY_alignmentX].setHidden ( true );
-            properties[PROPERTY_alignmentY] = new PropertyDescriptor ( "alignmentY", facebean.FaceBean.class, "getAlignmentY", "setAlignmentY" ); // NOI18N
+            properties[PROPERTY_alignmentY] = new PropertyDescriptor ( "alignmentY",fbclass, "getAlignmentY", "setAlignmentY" ); // NOI18N
             properties[PROPERTY_alignmentY].setHidden ( true );
-            properties[PROPERTY_ancestorListeners] = new PropertyDescriptor ( "ancestorListeners", facebean.FaceBean.class, "getAncestorListeners", null ); // NOI18N
+            properties[PROPERTY_ancestorListeners] = new PropertyDescriptor ( "ancestorListeners",fbclass, "getAncestorListeners", null ); // NOI18N
             properties[PROPERTY_ancestorListeners].setHidden ( true );
-            properties[PROPERTY_autoscrolls] = new PropertyDescriptor ( "autoscrolls", facebean.FaceBean.class, "getAutoscrolls", "setAutoscrolls" ); // NOI18N
+            properties[PROPERTY_autoscrolls] = new PropertyDescriptor ( "autoscrolls",fbclass, "getAutoscrolls", "setAutoscrolls" ); // NOI18N
             properties[PROPERTY_autoscrolls].setHidden ( true );
-            properties[PROPERTY_background] = new PropertyDescriptor ( "background", facebean.FaceBean.class, "getBackground", "setBackground" ); // NOI18N
+            properties[PROPERTY_background] = new PropertyDescriptor ( "background",fbclass, "getBackground", "setBackground" ); // NOI18N
             properties[PROPERTY_background].setPreferred ( true );
-            properties[PROPERTY_backgroundSet] = new PropertyDescriptor ( "backgroundSet", facebean.FaceBean.class, "isBackgroundSet", null ); // NOI18N
+            properties[PROPERTY_backgroundSet] = new PropertyDescriptor ( "backgroundSet",fbclass, "isBackgroundSet", null ); // NOI18N
             properties[PROPERTY_backgroundSet].setHidden ( true );
-            properties[PROPERTY_baselineResizeBehavior] = new PropertyDescriptor ( "baselineResizeBehavior", facebean.FaceBean.class, "getBaselineResizeBehavior", null ); // NOI18N
+            properties[PROPERTY_baselineResizeBehavior] = new PropertyDescriptor ( "baselineResizeBehavior",fbclass, "getBaselineResizeBehavior", null ); // NOI18N
             properties[PROPERTY_baselineResizeBehavior].setHidden ( true );
-            properties[PROPERTY_border] = new PropertyDescriptor ( "border", facebean.FaceBean.class, "getBorder", "setBorder" ); // NOI18N
+            properties[PROPERTY_border] = new PropertyDescriptor ( "border",fbclass, "getBorder", "setBorder" ); // NOI18N
             properties[PROPERTY_border].setHidden ( true );
-            properties[PROPERTY_bounds] = new PropertyDescriptor ( "bounds", facebean.FaceBean.class, "getBounds", "setBounds" ); // NOI18N
+            properties[PROPERTY_bounds] = new PropertyDescriptor ( "bounds",fbclass, "getBounds", "setBounds" ); // NOI18N
             properties[PROPERTY_bounds].setHidden ( true );
-            properties[PROPERTY_colorModel] = new PropertyDescriptor ( "colorModel", facebean.FaceBean.class, "getColorModel", null ); // NOI18N
+            properties[PROPERTY_colorModel] = new PropertyDescriptor ( "colorModel",fbclass, "getColorModel", null ); // NOI18N
             properties[PROPERTY_colorModel].setHidden ( true );
-            properties[PROPERTY_component] = new IndexedPropertyDescriptor ( "component", facebean.FaceBean.class, null, null, "getComponent", null ); // NOI18N
+            properties[PROPERTY_component] = new IndexedPropertyDescriptor ( "component",fbclass, null, null, "getComponent", null ); // NOI18N
             properties[PROPERTY_component].setHidden ( true );
-            properties[PROPERTY_componentCount] = new PropertyDescriptor ( "componentCount", facebean.FaceBean.class, "getComponentCount", null ); // NOI18N
+            properties[PROPERTY_componentCount] = new PropertyDescriptor ( "componentCount",fbclass, "getComponentCount", null ); // NOI18N
             properties[PROPERTY_componentCount].setHidden ( true );
-            properties[PROPERTY_componentListeners] = new PropertyDescriptor ( "componentListeners", facebean.FaceBean.class, "getComponentListeners", null ); // NOI18N
+            properties[PROPERTY_componentListeners] = new PropertyDescriptor ( "componentListeners",fbclass, "getComponentListeners", null ); // NOI18N
             properties[PROPERTY_componentListeners].setHidden ( true );
-            properties[PROPERTY_componentOrientation] = new PropertyDescriptor ( "componentOrientation", facebean.FaceBean.class, "getComponentOrientation", "setComponentOrientation" ); // NOI18N
+            properties[PROPERTY_componentOrientation] = new PropertyDescriptor ( "componentOrientation",fbclass, "getComponentOrientation", "setComponentOrientation" ); // NOI18N
             properties[PROPERTY_componentOrientation].setHidden ( true );
-            properties[PROPERTY_componentPopupMenu] = new PropertyDescriptor ( "componentPopupMenu", facebean.FaceBean.class, "getComponentPopupMenu", "setComponentPopupMenu" ); // NOI18N
+            properties[PROPERTY_componentPopupMenu] = new PropertyDescriptor ( "componentPopupMenu",fbclass, "getComponentPopupMenu", "setComponentPopupMenu" ); // NOI18N
             properties[PROPERTY_componentPopupMenu].setHidden ( true );
-            properties[PROPERTY_components] = new PropertyDescriptor ( "components", facebean.FaceBean.class, "getComponents", null ); // NOI18N
+            properties[PROPERTY_components] = new PropertyDescriptor ( "components",fbclass, "getComponents", null ); // NOI18N
             properties[PROPERTY_components].setHidden ( true );
-            properties[PROPERTY_containerListeners] = new PropertyDescriptor ( "containerListeners", facebean.FaceBean.class, "getContainerListeners", null ); // NOI18N
+            properties[PROPERTY_containerListeners] = new PropertyDescriptor ( "containerListeners",fbclass, "getContainerListeners", null ); // NOI18N
             properties[PROPERTY_containerListeners].setHidden ( true );
-            properties[PROPERTY_cursor] = new PropertyDescriptor ( "cursor", facebean.FaceBean.class, "getCursor", "setCursor" ); // NOI18N
+            properties[PROPERTY_cursor] = new PropertyDescriptor ( "cursor",fbclass, "getCursor", "setCursor" ); // NOI18N
             properties[PROPERTY_cursor].setHidden ( true );
-            properties[PROPERTY_cursorSet] = new PropertyDescriptor ( "cursorSet", facebean.FaceBean.class, "isCursorSet", null ); // NOI18N
+            properties[PROPERTY_cursorSet] = new PropertyDescriptor ( "cursorSet",fbclass, "isCursorSet", null ); // NOI18N
             properties[PROPERTY_cursorSet].setHidden ( true );
-            properties[PROPERTY_debugGraphicsOptions] = new PropertyDescriptor ( "debugGraphicsOptions", facebean.FaceBean.class, "getDebugGraphicsOptions", "setDebugGraphicsOptions" ); // NOI18N
+            properties[PROPERTY_debugGraphicsOptions] = new PropertyDescriptor ( "debugGraphicsOptions",fbclass, "getDebugGraphicsOptions", "setDebugGraphicsOptions" ); // NOI18N
             properties[PROPERTY_debugGraphicsOptions].setHidden ( true );
-            properties[PROPERTY_displayable] = new PropertyDescriptor ( "displayable", facebean.FaceBean.class, "isDisplayable", null ); // NOI18N
+            properties[PROPERTY_displayable] = new PropertyDescriptor ( "displayable",fbclass, "isDisplayable", null ); // NOI18N
             properties[PROPERTY_displayable].setHidden ( true );
-            properties[PROPERTY_doubleBuffered] = new PropertyDescriptor ( "doubleBuffered", facebean.FaceBean.class, "isDoubleBuffered", "setDoubleBuffered" ); // NOI18N
+            properties[PROPERTY_doubleBuffered] = new PropertyDescriptor ( "doubleBuffered",fbclass, "isDoubleBuffered", "setDoubleBuffered" ); // NOI18N
             properties[PROPERTY_doubleBuffered].setHidden ( true );
-            properties[PROPERTY_dropTarget] = new PropertyDescriptor ( "dropTarget", facebean.FaceBean.class, "getDropTarget", "setDropTarget" ); // NOI18N
+            properties[PROPERTY_dropTarget] = new PropertyDescriptor ( "dropTarget",fbclass, "getDropTarget", "setDropTarget" ); // NOI18N
             properties[PROPERTY_dropTarget].setHidden ( true );
-            properties[PROPERTY_enabled] = new PropertyDescriptor ( "enabled", facebean.FaceBean.class, "isEnabled", "setEnabled" ); // NOI18N
+            properties[PROPERTY_enabled] = new PropertyDescriptor ( "enabled",fbclass, "isEnabled", "setEnabled" ); // NOI18N
             properties[PROPERTY_enabled].setHidden ( true );
-            properties[PROPERTY_focusable] = new PropertyDescriptor ( "focusable", facebean.FaceBean.class, "isFocusable", "setFocusable" ); // NOI18N
+            properties[PROPERTY_focusable] = new PropertyDescriptor ( "focusable",fbclass, "isFocusable", "setFocusable" ); // NOI18N
             properties[PROPERTY_focusable].setHidden ( true );
-            properties[PROPERTY_focusCycleRoot] = new PropertyDescriptor ( "focusCycleRoot", facebean.FaceBean.class, "isFocusCycleRoot", "setFocusCycleRoot" ); // NOI18N
+            properties[PROPERTY_focusCycleRoot] = new PropertyDescriptor ( "focusCycleRoot",fbclass, "isFocusCycleRoot", "setFocusCycleRoot" ); // NOI18N
             properties[PROPERTY_focusCycleRoot].setHidden ( true );
-            properties[PROPERTY_focusCycleRootAncestor] = new PropertyDescriptor ( "focusCycleRootAncestor", facebean.FaceBean.class, "getFocusCycleRootAncestor", null ); // NOI18N
+            properties[PROPERTY_focusCycleRootAncestor] = new PropertyDescriptor ( "focusCycleRootAncestor",fbclass, "getFocusCycleRootAncestor", null ); // NOI18N
             properties[PROPERTY_focusCycleRootAncestor].setHidden ( true );
-            properties[PROPERTY_focusListeners] = new PropertyDescriptor ( "focusListeners", facebean.FaceBean.class, "getFocusListeners", null ); // NOI18N
+            properties[PROPERTY_focusListeners] = new PropertyDescriptor ( "focusListeners",fbclass, "getFocusListeners", null ); // NOI18N
             properties[PROPERTY_focusListeners].setHidden ( true );
-            properties[PROPERTY_focusOwner] = new PropertyDescriptor ( "focusOwner", facebean.FaceBean.class, "isFocusOwner", null ); // NOI18N
+            properties[PROPERTY_focusOwner] = new PropertyDescriptor ( "focusOwner",fbclass, "isFocusOwner", null ); // NOI18N
             properties[PROPERTY_focusOwner].setHidden ( true );
-            properties[PROPERTY_focusTraversable] = new PropertyDescriptor ( "focusTraversable", facebean.FaceBean.class, "isFocusTraversable", null ); // NOI18N
+            properties[PROPERTY_focusTraversable] = new PropertyDescriptor ( "focusTraversable",fbclass, "isFocusTraversable", null ); // NOI18N
             properties[PROPERTY_focusTraversable].setHidden ( true );
-            properties[PROPERTY_focusTraversalKeys] = new IndexedPropertyDescriptor ( "focusTraversalKeys", facebean.FaceBean.class, null, null, null, "setFocusTraversalKeys" ); // NOI18N
+            properties[PROPERTY_focusTraversalKeys] = new IndexedPropertyDescriptor ( "focusTraversalKeys",fbclass, null, null, null, "setFocusTraversalKeys" ); // NOI18N
             properties[PROPERTY_focusTraversalKeys].setHidden ( true );
-            properties[PROPERTY_focusTraversalKeysEnabled] = new PropertyDescriptor ( "focusTraversalKeysEnabled", facebean.FaceBean.class, "getFocusTraversalKeysEnabled", "setFocusTraversalKeysEnabled" ); // NOI18N
+            properties[PROPERTY_focusTraversalKeysEnabled] = new PropertyDescriptor ( "focusTraversalKeysEnabled",fbclass, "getFocusTraversalKeysEnabled", "setFocusTraversalKeysEnabled" ); // NOI18N
             properties[PROPERTY_focusTraversalKeysEnabled].setHidden ( true );
-            properties[PROPERTY_focusTraversalPolicy] = new PropertyDescriptor ( "focusTraversalPolicy", facebean.FaceBean.class, "getFocusTraversalPolicy", "setFocusTraversalPolicy" ); // NOI18N
+            properties[PROPERTY_focusTraversalPolicy] = new PropertyDescriptor ( "focusTraversalPolicy",fbclass, "getFocusTraversalPolicy", "setFocusTraversalPolicy" ); // NOI18N
             properties[PROPERTY_focusTraversalPolicy].setHidden ( true );
-            properties[PROPERTY_focusTraversalPolicyProvider] = new PropertyDescriptor ( "focusTraversalPolicyProvider", facebean.FaceBean.class, "isFocusTraversalPolicyProvider", "setFocusTraversalPolicyProvider" ); // NOI18N
+            properties[PROPERTY_focusTraversalPolicyProvider] = new PropertyDescriptor ( "focusTraversalPolicyProvider",fbclass, "isFocusTraversalPolicyProvider", "setFocusTraversalPolicyProvider" ); // NOI18N
             properties[PROPERTY_focusTraversalPolicyProvider].setHidden ( true );
-            properties[PROPERTY_focusTraversalPolicySet] = new PropertyDescriptor ( "focusTraversalPolicySet", facebean.FaceBean.class, "isFocusTraversalPolicySet", null ); // NOI18N
+            properties[PROPERTY_focusTraversalPolicySet] = new PropertyDescriptor ( "focusTraversalPolicySet",fbclass, "isFocusTraversalPolicySet", null ); // NOI18N
             properties[PROPERTY_focusTraversalPolicySet].setHidden ( true );
-            properties[PROPERTY_font] = new PropertyDescriptor ( "font", facebean.FaceBean.class, "getFont", "setFont" ); // NOI18N
+            properties[PROPERTY_font] = new PropertyDescriptor ( "font",fbclass, "getFont", "setFont" ); // NOI18N
             properties[PROPERTY_font].setHidden ( true );
-            properties[PROPERTY_fontSet] = new PropertyDescriptor ( "fontSet", facebean.FaceBean.class, "isFontSet", null ); // NOI18N
+            properties[PROPERTY_fontSet] = new PropertyDescriptor ( "fontSet",fbclass, "isFontSet", null ); // NOI18N
             properties[PROPERTY_fontSet].setHidden ( true );
-            properties[PROPERTY_foreground] = new PropertyDescriptor ( "foreground", facebean.FaceBean.class, "getForeground", "setForeground" ); // NOI18N
+            properties[PROPERTY_foreground] = new PropertyDescriptor ( "foreground",fbclass, "getForeground", "setForeground" ); // NOI18N
             properties[PROPERTY_foreground].setPreferred ( true );
-            properties[PROPERTY_foregroundSet] = new PropertyDescriptor ( "foregroundSet", facebean.FaceBean.class, "isForegroundSet", null ); // NOI18N
+            properties[PROPERTY_foregroundSet] = new PropertyDescriptor ( "foregroundSet",fbclass, "isForegroundSet", null ); // NOI18N
             properties[PROPERTY_foregroundSet].setHidden ( true );
-            properties[PROPERTY_graphics] = new PropertyDescriptor ( "graphics", facebean.FaceBean.class, "getGraphics", null ); // NOI18N
+            properties[PROPERTY_graphics] = new PropertyDescriptor ( "graphics",fbclass, "getGraphics", null ); // NOI18N
             properties[PROPERTY_graphics].setHidden ( true );
-            properties[PROPERTY_graphicsConfiguration] = new PropertyDescriptor ( "graphicsConfiguration", facebean.FaceBean.class, "getGraphicsConfiguration", null ); // NOI18N
+            properties[PROPERTY_graphicsConfiguration] = new PropertyDescriptor ( "graphicsConfiguration",fbclass, "getGraphicsConfiguration", null ); // NOI18N
             properties[PROPERTY_graphicsConfiguration].setHidden ( true );
-            properties[PROPERTY_height] = new PropertyDescriptor ( "height", facebean.FaceBean.class, "getHeight", null ); // NOI18N
+            properties[PROPERTY_height] = new PropertyDescriptor ( "height",fbclass, "getHeight", null ); // NOI18N
             properties[PROPERTY_height].setHidden ( true );
-            properties[PROPERTY_hierarchyBoundsListeners] = new PropertyDescriptor ( "hierarchyBoundsListeners", facebean.FaceBean.class, "getHierarchyBoundsListeners", null ); // NOI18N
+            properties[PROPERTY_hierarchyBoundsListeners] = new PropertyDescriptor ( "hierarchyBoundsListeners",fbclass, "getHierarchyBoundsListeners", null ); // NOI18N
             properties[PROPERTY_hierarchyBoundsListeners].setHidden ( true );
-            properties[PROPERTY_hierarchyListeners] = new PropertyDescriptor ( "hierarchyListeners", facebean.FaceBean.class, "getHierarchyListeners", null ); // NOI18N
+            properties[PROPERTY_hierarchyListeners] = new PropertyDescriptor ( "hierarchyListeners",fbclass, "getHierarchyListeners", null ); // NOI18N
             properties[PROPERTY_hierarchyListeners].setHidden ( true );
-            properties[PROPERTY_ignoreRepaint] = new PropertyDescriptor ( "ignoreRepaint", facebean.FaceBean.class, "getIgnoreRepaint", "setIgnoreRepaint" ); // NOI18N
+            properties[PROPERTY_ignoreRepaint] = new PropertyDescriptor ( "ignoreRepaint",fbclass, "getIgnoreRepaint", "setIgnoreRepaint" ); // NOI18N
             properties[PROPERTY_ignoreRepaint].setHidden ( true );
-            properties[PROPERTY_inheritsPopupMenu] = new PropertyDescriptor ( "inheritsPopupMenu", facebean.FaceBean.class, "getInheritsPopupMenu", "setInheritsPopupMenu" ); // NOI18N
+            properties[PROPERTY_inheritsPopupMenu] = new PropertyDescriptor ( "inheritsPopupMenu",fbclass, "getInheritsPopupMenu", "setInheritsPopupMenu" ); // NOI18N
             properties[PROPERTY_inheritsPopupMenu].setHidden ( true );
-            properties[PROPERTY_inputContext] = new PropertyDescriptor ( "inputContext", facebean.FaceBean.class, "getInputContext", null ); // NOI18N
+            properties[PROPERTY_inputContext] = new PropertyDescriptor ( "inputContext",fbclass, "getInputContext", null ); // NOI18N
             properties[PROPERTY_inputContext].setHidden ( true );
-            properties[PROPERTY_inputMap] = new PropertyDescriptor ( "inputMap", facebean.FaceBean.class, "getInputMap", null ); // NOI18N
+            properties[PROPERTY_inputMap] = new PropertyDescriptor ( "inputMap",fbclass, "getInputMap", null ); // NOI18N
             properties[PROPERTY_inputMap].setHidden ( true );
-            properties[PROPERTY_inputMethodListeners] = new PropertyDescriptor ( "inputMethodListeners", facebean.FaceBean.class, "getInputMethodListeners", null ); // NOI18N
+            properties[PROPERTY_inputMethodListeners] = new PropertyDescriptor ( "inputMethodListeners",fbclass, "getInputMethodListeners", null ); // NOI18N
             properties[PROPERTY_inputMethodListeners].setHidden ( true );
-            properties[PROPERTY_inputMethodRequests] = new PropertyDescriptor ( "inputMethodRequests", facebean.FaceBean.class, "getInputMethodRequests", null ); // NOI18N
+            properties[PROPERTY_inputMethodRequests] = new PropertyDescriptor ( "inputMethodRequests",fbclass, "getInputMethodRequests", null ); // NOI18N
             properties[PROPERTY_inputMethodRequests].setHidden ( true );
-            properties[PROPERTY_inputVerifier] = new PropertyDescriptor ( "inputVerifier", facebean.FaceBean.class, "getInputVerifier", "setInputVerifier" ); // NOI18N
+            properties[PROPERTY_inputVerifier] = new PropertyDescriptor ( "inputVerifier",fbclass, "getInputVerifier", "setInputVerifier" ); // NOI18N
             properties[PROPERTY_inputVerifier].setHidden ( true );
-            properties[PROPERTY_insets] = new PropertyDescriptor ( "insets", facebean.FaceBean.class, "getInsets", null ); // NOI18N
+            properties[PROPERTY_insets] = new PropertyDescriptor ( "insets",fbclass, "getInsets", null ); // NOI18N
             properties[PROPERTY_insets].setHidden ( true );
-            properties[PROPERTY_keyListeners] = new PropertyDescriptor ( "keyListeners", facebean.FaceBean.class, "getKeyListeners", null ); // NOI18N
+            properties[PROPERTY_keyListeners] = new PropertyDescriptor ( "keyListeners",fbclass, "getKeyListeners", null ); // NOI18N
             properties[PROPERTY_keyListeners].setHidden ( true );
-            properties[PROPERTY_layout] = new PropertyDescriptor ( "layout", facebean.FaceBean.class, "getLayout", "setLayout" ); // NOI18N
+            properties[PROPERTY_layout] = new PropertyDescriptor ( "layout",fbclass, "getLayout", "setLayout" ); // NOI18N
             properties[PROPERTY_layout].setHidden ( true );
-            properties[PROPERTY_lightweight] = new PropertyDescriptor ( "lightweight", facebean.FaceBean.class, "isLightweight", null ); // NOI18N
+            properties[PROPERTY_lightweight] = new PropertyDescriptor ( "lightweight",fbclass, "isLightweight", null ); // NOI18N
             properties[PROPERTY_lightweight].setHidden ( true );
-            properties[PROPERTY_locale] = new PropertyDescriptor ( "locale", facebean.FaceBean.class, "getLocale", "setLocale" ); // NOI18N
+            properties[PROPERTY_locale] = new PropertyDescriptor ( "locale",fbclass, "getLocale", "setLocale" ); // NOI18N
             properties[PROPERTY_locale].setHidden ( true );
-            properties[PROPERTY_location] = new PropertyDescriptor ( "location", facebean.FaceBean.class, "getLocation", "setLocation" ); // NOI18N
+            properties[PROPERTY_location] = new PropertyDescriptor ( "location",fbclass, "getLocation", "setLocation" ); // NOI18N
             properties[PROPERTY_location].setHidden ( true );
-            properties[PROPERTY_locationOnScreen] = new PropertyDescriptor ( "locationOnScreen", facebean.FaceBean.class, "getLocationOnScreen", null ); // NOI18N
+            properties[PROPERTY_locationOnScreen] = new PropertyDescriptor ( "locationOnScreen",fbclass, "getLocationOnScreen", null ); // NOI18N
             properties[PROPERTY_locationOnScreen].setHidden ( true );
-            properties[PROPERTY_managingFocus] = new PropertyDescriptor ( "managingFocus", facebean.FaceBean.class, "isManagingFocus", null ); // NOI18N
+            properties[PROPERTY_managingFocus] = new PropertyDescriptor ( "managingFocus",fbclass, "isManagingFocus", null ); // NOI18N
             properties[PROPERTY_managingFocus].setHidden ( true );
-            properties[PROPERTY_maximumSize] = new PropertyDescriptor ( "maximumSize", facebean.FaceBean.class, "getMaximumSize", "setMaximumSize" ); // NOI18N
+            properties[PROPERTY_maximumSize] = new PropertyDescriptor ( "maximumSize",fbclass, "getMaximumSize", "setMaximumSize" ); // NOI18N
             properties[PROPERTY_maximumSize].setHidden ( true );
-            properties[PROPERTY_maximumSizeSet] = new PropertyDescriptor ( "maximumSizeSet", facebean.FaceBean.class, "isMaximumSizeSet", null ); // NOI18N
+            properties[PROPERTY_maximumSizeSet] = new PropertyDescriptor ( "maximumSizeSet",fbclass, "isMaximumSizeSet", null ); // NOI18N
             properties[PROPERTY_maximumSizeSet].setHidden ( true );
-            properties[PROPERTY_minimumSize] = new PropertyDescriptor ( "minimumSize", facebean.FaceBean.class, "getMinimumSize", "setMinimumSize" ); // NOI18N
+            properties[PROPERTY_minimumSize] = new PropertyDescriptor ( "minimumSize",fbclass, "getMinimumSize", "setMinimumSize" ); // NOI18N
             properties[PROPERTY_minimumSize].setHidden ( true );
-            properties[PROPERTY_minimumSizeSet] = new PropertyDescriptor ( "minimumSizeSet", facebean.FaceBean.class, "isMinimumSizeSet", null ); // NOI18N
+            properties[PROPERTY_minimumSizeSet] = new PropertyDescriptor ( "minimumSizeSet",fbclass, "isMinimumSizeSet", null ); // NOI18N
             properties[PROPERTY_minimumSizeSet].setHidden ( true );
-            properties[PROPERTY_mouseListeners] = new PropertyDescriptor ( "mouseListeners", facebean.FaceBean.class, "getMouseListeners", null ); // NOI18N
+            properties[PROPERTY_mouseListeners] = new PropertyDescriptor ( "mouseListeners",fbclass, "getMouseListeners", null ); // NOI18N
             properties[PROPERTY_mouseListeners].setHidden ( true );
-            properties[PROPERTY_mouseMotionListeners] = new PropertyDescriptor ( "mouseMotionListeners", facebean.FaceBean.class, "getMouseMotionListeners", null ); // NOI18N
+            properties[PROPERTY_mouseMotionListeners] = new PropertyDescriptor ( "mouseMotionListeners",fbclass, "getMouseMotionListeners", null ); // NOI18N
             properties[PROPERTY_mouseMotionListeners].setHidden ( true );
-            properties[PROPERTY_mousePosition] = new PropertyDescriptor ( "mousePosition", facebean.FaceBean.class, "getMousePosition", null ); // NOI18N
+            properties[PROPERTY_mousePosition] = new PropertyDescriptor ( "mousePosition",fbclass, "getMousePosition", null ); // NOI18N
             properties[PROPERTY_mousePosition].setHidden ( true );
-            properties[PROPERTY_mouseWheelListeners] = new PropertyDescriptor ( "mouseWheelListeners", facebean.FaceBean.class, "getMouseWheelListeners", null ); // NOI18N
+            properties[PROPERTY_mouseWheelListeners] = new PropertyDescriptor ( "mouseWheelListeners",fbclass, "getMouseWheelListeners", null ); // NOI18N
             properties[PROPERTY_mouseWheelListeners].setHidden ( true );
-            properties[PROPERTY_mouthWidth] = new PropertyDescriptor ( "mouthWidth", facebean.FaceBean.class, "getMouthWidth", "setMouthWidth" ); // NOI18N
+            properties[PROPERTY_mouthWidth] = new PropertyDescriptor ( "mouthWidth",fbclass, "getMouthWidth", "setMouthWidth" ); // NOI18N
             properties[PROPERTY_mouthWidth].setPreferred ( true );
-            properties[PROPERTY_name] = new PropertyDescriptor ( "name", facebean.FaceBean.class, "getName", "setName" ); // NOI18N
+            properties[PROPERTY_name] = new PropertyDescriptor ( "name",fbclass, "getName", "setName" ); // NOI18N
             properties[PROPERTY_name].setHidden ( true );
-            properties[PROPERTY_nextFocusableComponent] = new PropertyDescriptor ( "nextFocusableComponent", facebean.FaceBean.class, "getNextFocusableComponent", "setNextFocusableComponent" ); // NOI18N
+            properties[PROPERTY_nextFocusableComponent] = new PropertyDescriptor ( "nextFocusableComponent",fbclass, "getNextFocusableComponent", "setNextFocusableComponent" ); // NOI18N
             properties[PROPERTY_nextFocusableComponent].setHidden ( true );
-            properties[PROPERTY_opaque] = new PropertyDescriptor ( "opaque", facebean.FaceBean.class, "isOpaque", "setOpaque" ); // NOI18N
+            properties[PROPERTY_opaque] = new PropertyDescriptor ( "opaque",fbclass, "isOpaque", "setOpaque" ); // NOI18N
             properties[PROPERTY_opaque].setHidden ( true );
-            properties[PROPERTY_optimizedDrawingEnabled] = new PropertyDescriptor ( "optimizedDrawingEnabled", facebean.FaceBean.class, "isOptimizedDrawingEnabled", null ); // NOI18N
+            properties[PROPERTY_optimizedDrawingEnabled] = new PropertyDescriptor ( "optimizedDrawingEnabled",fbclass, "isOptimizedDrawingEnabled", null ); // NOI18N
             properties[PROPERTY_optimizedDrawingEnabled].setHidden ( true );
-            properties[PROPERTY_paintingForPrint] = new PropertyDescriptor ( "paintingForPrint", facebean.FaceBean.class, "isPaintingForPrint", null ); // NOI18N
+            properties[PROPERTY_paintingForPrint] = new PropertyDescriptor ( "paintingForPrint",fbclass, "isPaintingForPrint", null ); // NOI18N
             properties[PROPERTY_paintingForPrint].setHidden ( true );
-            properties[PROPERTY_paintingTile] = new PropertyDescriptor ( "paintingTile", facebean.FaceBean.class, "isPaintingTile", null ); // NOI18N
+            properties[PROPERTY_paintingTile] = new PropertyDescriptor ( "paintingTile",fbclass, "isPaintingTile", null ); // NOI18N
             properties[PROPERTY_paintingTile].setHidden ( true );
-            properties[PROPERTY_parent] = new PropertyDescriptor ( "parent", facebean.FaceBean.class, "getParent", null ); // NOI18N
+            properties[PROPERTY_parent] = new PropertyDescriptor ( "parent",fbclass, "getParent", null ); // NOI18N
             properties[PROPERTY_parent].setHidden ( true );
-            properties[PROPERTY_peer] = new PropertyDescriptor ( "peer", facebean.FaceBean.class, "getPeer", null ); // NOI18N
+            properties[PROPERTY_peer] = new PropertyDescriptor ( "peer",fbclass, "getPeer", null ); // NOI18N
             properties[PROPERTY_peer].setHidden ( true );
-            properties[PROPERTY_preferredSize] = new PropertyDescriptor ( "preferredSize", facebean.FaceBean.class, "getPreferredSize", "setPreferredSize" ); // NOI18N
+            properties[PROPERTY_preferredSize] = new PropertyDescriptor ( "preferredSize",fbclass, "getPreferredSize", "setPreferredSize" ); // NOI18N
             properties[PROPERTY_preferredSize].setHidden ( true );
-            properties[PROPERTY_preferredSizeSet] = new PropertyDescriptor ( "preferredSizeSet", facebean.FaceBean.class, "isPreferredSizeSet", null ); // NOI18N
+            properties[PROPERTY_preferredSizeSet] = new PropertyDescriptor ( "preferredSizeSet",fbclass, "isPreferredSizeSet", null ); // NOI18N
             properties[PROPERTY_preferredSizeSet].setHidden ( true );
-            properties[PROPERTY_propertyChangeListeners] = new PropertyDescriptor ( "propertyChangeListeners", facebean.FaceBean.class, "getPropertyChangeListeners", null ); // NOI18N
+            properties[PROPERTY_propertyChangeListeners] = new PropertyDescriptor ( "propertyChangeListeners",fbclass, "getPropertyChangeListeners", null ); // NOI18N
             properties[PROPERTY_propertyChangeListeners].setHidden ( true );
-            properties[PROPERTY_registeredKeyStrokes] = new PropertyDescriptor ( "registeredKeyStrokes", facebean.FaceBean.class, "getRegisteredKeyStrokes", null ); // NOI18N
+            properties[PROPERTY_registeredKeyStrokes] = new PropertyDescriptor ( "registeredKeyStrokes",fbclass, "getRegisteredKeyStrokes", null ); // NOI18N
             properties[PROPERTY_registeredKeyStrokes].setHidden ( true );
-            properties[PROPERTY_requestFocusEnabled] = new PropertyDescriptor ( "requestFocusEnabled", facebean.FaceBean.class, "isRequestFocusEnabled", "setRequestFocusEnabled" ); // NOI18N
+            properties[PROPERTY_requestFocusEnabled] = new PropertyDescriptor ( "requestFocusEnabled",fbclass, "isRequestFocusEnabled", "setRequestFocusEnabled" ); // NOI18N
             properties[PROPERTY_requestFocusEnabled].setHidden ( true );
-            properties[PROPERTY_rootPane] = new PropertyDescriptor ( "rootPane", facebean.FaceBean.class, "getRootPane", null ); // NOI18N
+            properties[PROPERTY_rootPane] = new PropertyDescriptor ( "rootPane",fbclass, "getRootPane", null ); // NOI18N
             properties[PROPERTY_rootPane].setHidden ( true );
-            properties[PROPERTY_showing] = new PropertyDescriptor ( "showing", facebean.FaceBean.class, "isShowing", null ); // NOI18N
+            properties[PROPERTY_showing] = new PropertyDescriptor ( "showing",fbclass, "isShowing", null ); // NOI18N
             properties[PROPERTY_showing].setHidden ( true );
-            properties[PROPERTY_size] = new PropertyDescriptor ( "size", facebean.FaceBean.class, "getSize", "setSize" ); // NOI18N
+            properties[PROPERTY_size] = new PropertyDescriptor ( "size",fbclass, "getSize", "setSize" ); // NOI18N
             properties[PROPERTY_size].setHidden ( true );
-            properties[PROPERTY_toolkit] = new PropertyDescriptor ( "toolkit", facebean.FaceBean.class, "getToolkit", null ); // NOI18N
+            properties[PROPERTY_toolkit] = new PropertyDescriptor ( "toolkit",fbclass, "getToolkit", null ); // NOI18N
             properties[PROPERTY_toolkit].setHidden ( true );
-            properties[PROPERTY_toolTipText] = new PropertyDescriptor ( "toolTipText", facebean.FaceBean.class, "getToolTipText", "setToolTipText" ); // NOI18N
+            properties[PROPERTY_toolTipText] = new PropertyDescriptor ( "toolTipText",fbclass, "getToolTipText", "setToolTipText" ); // NOI18N
             properties[PROPERTY_toolTipText].setHidden ( true );
-            properties[PROPERTY_topLevelAncestor] = new PropertyDescriptor ( "topLevelAncestor", facebean.FaceBean.class, "getTopLevelAncestor", null ); // NOI18N
+            properties[PROPERTY_topLevelAncestor] = new PropertyDescriptor ( "topLevelAncestor",fbclass, "getTopLevelAncestor", null ); // NOI18N
             properties[PROPERTY_topLevelAncestor].setHidden ( true );
-            properties[PROPERTY_transferHandler] = new PropertyDescriptor ( "transferHandler", facebean.FaceBean.class, "getTransferHandler", "setTransferHandler" ); // NOI18N
+            properties[PROPERTY_transferHandler] = new PropertyDescriptor ( "transferHandler",fbclass, "getTransferHandler", "setTransferHandler" ); // NOI18N
             properties[PROPERTY_transferHandler].setHidden ( true );
-            properties[PROPERTY_treeLock] = new PropertyDescriptor ( "treeLock", facebean.FaceBean.class, "getTreeLock", null ); // NOI18N
+            properties[PROPERTY_treeLock] = new PropertyDescriptor ( "treeLock",fbclass, "getTreeLock", null ); // NOI18N
             properties[PROPERTY_treeLock].setHidden ( true );
-            properties[PROPERTY_UIClassID] = new PropertyDescriptor ( "UIClassID", facebean.FaceBean.class, "getUIClassID", null ); // NOI18N
+            properties[PROPERTY_UIClassID] = new PropertyDescriptor ( "UIClassID",fbclass, "getUIClassID", null ); // NOI18N
             properties[PROPERTY_UIClassID].setHidden ( true );
-            properties[PROPERTY_valid] = new PropertyDescriptor ( "valid", facebean.FaceBean.class, "isValid", null ); // NOI18N
+            properties[PROPERTY_valid] = new PropertyDescriptor ( "valid",fbclass, "isValid", null ); // NOI18N
             properties[PROPERTY_valid].setHidden ( true );
-            properties[PROPERTY_validateRoot] = new PropertyDescriptor ( "validateRoot", facebean.FaceBean.class, "isValidateRoot", null ); // NOI18N
+            properties[PROPERTY_validateRoot] = new PropertyDescriptor ( "validateRoot",fbclass, "isValidateRoot", null ); // NOI18N
             properties[PROPERTY_validateRoot].setHidden ( true );
-            properties[PROPERTY_verifyInputWhenFocusTarget] = new PropertyDescriptor ( "verifyInputWhenFocusTarget", facebean.FaceBean.class, "getVerifyInputWhenFocusTarget", "setVerifyInputWhenFocusTarget" ); // NOI18N
+            properties[PROPERTY_verifyInputWhenFocusTarget] = new PropertyDescriptor ( "verifyInputWhenFocusTarget",fbclass, "getVerifyInputWhenFocusTarget", "setVerifyInputWhenFocusTarget" ); // NOI18N
             properties[PROPERTY_verifyInputWhenFocusTarget].setHidden ( true );
-            properties[PROPERTY_vetoableChangeListeners] = new PropertyDescriptor ( "vetoableChangeListeners", facebean.FaceBean.class, "getVetoableChangeListeners", null ); // NOI18N
+            properties[PROPERTY_vetoableChangeListeners] = new PropertyDescriptor ( "vetoableChangeListeners",fbclass, "getVetoableChangeListeners", null ); // NOI18N
             properties[PROPERTY_vetoableChangeListeners].setHidden ( true );
-            properties[PROPERTY_visible] = new PropertyDescriptor ( "visible", facebean.FaceBean.class, "isVisible", "setVisible" ); // NOI18N
+            properties[PROPERTY_visible] = new PropertyDescriptor ( "visible",fbclass, "isVisible", "setVisible" ); // NOI18N
             properties[PROPERTY_visible].setHidden ( true );
-            properties[PROPERTY_visibleRect] = new PropertyDescriptor ( "visibleRect", facebean.FaceBean.class, "getVisibleRect", null ); // NOI18N
+            properties[PROPERTY_visibleRect] = new PropertyDescriptor ( "visibleRect",fbclass, "getVisibleRect", null ); // NOI18N
             properties[PROPERTY_visibleRect].setHidden ( true );
-            properties[PROPERTY_width] = new PropertyDescriptor ( "width", facebean.FaceBean.class, "getWidth", null ); // NOI18N
+            properties[PROPERTY_width] = new PropertyDescriptor ( "width",fbclass, "getWidth", null ); // NOI18N
             properties[PROPERTY_width].setHidden ( true );
-            properties[PROPERTY_x] = new PropertyDescriptor ( "x", facebean.FaceBean.class, "getX", null ); // NOI18N
+            properties[PROPERTY_x] = new PropertyDescriptor ( "x",fbclass, "getX", null ); // NOI18N
             properties[PROPERTY_x].setHidden ( true );
-            properties[PROPERTY_y] = new PropertyDescriptor ( "y", facebean.FaceBean.class, "getY", null ); // NOI18N
+            properties[PROPERTY_y] = new PropertyDescriptor ( "y",fbclass, "getY", null ); // NOI18N
             properties[PROPERTY_y].setHidden ( true );
         }
         catch(IntrospectionException e) {
@@ -394,31 +394,31 @@ public class FaceBeanBeanInfo extends SimpleBeanInfo {
         EventSetDescriptor[] eventSets = new EventSetDescriptor[13];
     
         try {
-            eventSets[EVENT_ancestorListener] = new EventSetDescriptor ( facebean.FaceBean.class, "ancestorListener", javax.swing.event.AncestorListener.class, new String[] {"ancestorAdded", "ancestorRemoved", "ancestorMoved"}, "addAncestorListener", "removeAncestorListener" ); // NOI18N
+            eventSets[EVENT_ancestorListener] = new EventSetDescriptor (fbclass, "ancestorListener", javax.swing.event.AncestorListener.class, new String[] {"ancestorAdded", "ancestorRemoved", "ancestorMoved"}, "addAncestorListener", "removeAncestorListener" ); // NOI18N
             eventSets[EVENT_ancestorListener].setHidden ( true );
-            eventSets[EVENT_componentListener] = new EventSetDescriptor ( facebean.FaceBean.class, "componentListener", java.awt.event.ComponentListener.class, new String[] {"componentResized", "componentMoved", "componentShown", "componentHidden"}, "addComponentListener", "removeComponentListener" ); // NOI18N
+            eventSets[EVENT_componentListener] = new EventSetDescriptor (fbclass, "componentListener", java.awt.event.ComponentListener.class, new String[] {"componentResized", "componentMoved", "componentShown", "componentHidden"}, "addComponentListener", "removeComponentListener" ); // NOI18N
             eventSets[EVENT_componentListener].setHidden ( true );
-            eventSets[EVENT_containerListener] = new EventSetDescriptor ( facebean.FaceBean.class, "containerListener", java.awt.event.ContainerListener.class, new String[] {"componentAdded", "componentRemoved"}, "addContainerListener", "removeContainerListener" ); // NOI18N
+            eventSets[EVENT_containerListener] = new EventSetDescriptor (fbclass, "containerListener", java.awt.event.ContainerListener.class, new String[] {"componentAdded", "componentRemoved"}, "addContainerListener", "removeContainerListener" ); // NOI18N
             eventSets[EVENT_containerListener].setHidden ( true );
-            eventSets[EVENT_focusListener] = new EventSetDescriptor ( facebean.FaceBean.class, "focusListener", java.awt.event.FocusListener.class, new String[] {"focusGained", "focusLost"}, "addFocusListener", "removeFocusListener" ); // NOI18N
+            eventSets[EVENT_focusListener] = new EventSetDescriptor (fbclass, "focusListener", java.awt.event.FocusListener.class, new String[] {"focusGained", "focusLost"}, "addFocusListener", "removeFocusListener" ); // NOI18N
             eventSets[EVENT_focusListener].setHidden ( true );
-            eventSets[EVENT_hierarchyBoundsListener] = new EventSetDescriptor ( facebean.FaceBean.class, "hierarchyBoundsListener", java.awt.event.HierarchyBoundsListener.class, new String[] {"ancestorMoved", "ancestorResized"}, "addHierarchyBoundsListener", "removeHierarchyBoundsListener" ); // NOI18N
+            eventSets[EVENT_hierarchyBoundsListener] = new EventSetDescriptor (fbclass, "hierarchyBoundsListener", java.awt.event.HierarchyBoundsListener.class, new String[] {"ancestorMoved", "ancestorResized"}, "addHierarchyBoundsListener", "removeHierarchyBoundsListener" ); // NOI18N
             eventSets[EVENT_hierarchyBoundsListener].setHidden ( true );
-            eventSets[EVENT_hierarchyListener] = new EventSetDescriptor ( facebean.FaceBean.class, "hierarchyListener", java.awt.event.HierarchyListener.class, new String[] {"hierarchyChanged"}, "addHierarchyListener", "removeHierarchyListener" ); // NOI18N
+            eventSets[EVENT_hierarchyListener] = new EventSetDescriptor (fbclass, "hierarchyListener", java.awt.event.HierarchyListener.class, new String[] {"hierarchyChanged"}, "addHierarchyListener", "removeHierarchyListener" ); // NOI18N
             eventSets[EVENT_hierarchyListener].setHidden ( true );
-            eventSets[EVENT_inputMethodListener] = new EventSetDescriptor ( facebean.FaceBean.class, "inputMethodListener", java.awt.event.InputMethodListener.class, new String[] {"inputMethodTextChanged", "caretPositionChanged"}, "addInputMethodListener", "removeInputMethodListener" ); // NOI18N
+            eventSets[EVENT_inputMethodListener] = new EventSetDescriptor (fbclass, "inputMethodListener", java.awt.event.InputMethodListener.class, new String[] {"inputMethodTextChanged", "caretPositionChanged"}, "addInputMethodListener", "removeInputMethodListener" ); // NOI18N
             eventSets[EVENT_inputMethodListener].setHidden ( true );
-            eventSets[EVENT_keyListener] = new EventSetDescriptor ( facebean.FaceBean.class, "keyListener", java.awt.event.KeyListener.class, new String[] {"keyTyped", "keyPressed", "keyReleased"}, "addKeyListener", "removeKeyListener" ); // NOI18N
+            eventSets[EVENT_keyListener] = new EventSetDescriptor (fbclass, "keyListener", java.awt.event.KeyListener.class, new String[] {"keyTyped", "keyPressed", "keyReleased"}, "addKeyListener", "removeKeyListener" ); // NOI18N
             eventSets[EVENT_keyListener].setHidden ( true );
-            eventSets[EVENT_mouseListener] = new EventSetDescriptor ( facebean.FaceBean.class, "mouseListener", java.awt.event.MouseListener.class, new String[] {"mouseClicked", "mousePressed", "mouseReleased", "mouseEntered", "mouseExited"}, "addMouseListener", "removeMouseListener" ); // NOI18N
+            eventSets[EVENT_mouseListener] = new EventSetDescriptor (fbclass, "mouseListener", java.awt.event.MouseListener.class, new String[] {"mouseClicked", "mousePressed", "mouseReleased", "mouseEntered", "mouseExited"}, "addMouseListener", "removeMouseListener" ); // NOI18N
             eventSets[EVENT_mouseListener].setHidden ( true );
-            eventSets[EVENT_mouseMotionListener] = new EventSetDescriptor ( facebean.FaceBean.class, "mouseMotionListener", java.awt.event.MouseMotionListener.class, new String[] {"mouseDragged", "mouseMoved"}, "addMouseMotionListener", "removeMouseMotionListener" ); // NOI18N
+            eventSets[EVENT_mouseMotionListener] = new EventSetDescriptor (fbclass, "mouseMotionListener", java.awt.event.MouseMotionListener.class, new String[] {"mouseDragged", "mouseMoved"}, "addMouseMotionListener", "removeMouseMotionListener" ); // NOI18N
             eventSets[EVENT_mouseMotionListener].setHidden ( true );
-            eventSets[EVENT_mouseWheelListener] = new EventSetDescriptor ( facebean.FaceBean.class, "mouseWheelListener", java.awt.event.MouseWheelListener.class, new String[] {"mouseWheelMoved"}, "addMouseWheelListener", "removeMouseWheelListener" ); // NOI18N
+            eventSets[EVENT_mouseWheelListener] = new EventSetDescriptor (fbclass, "mouseWheelListener", java.awt.event.MouseWheelListener.class, new String[] {"mouseWheelMoved"}, "addMouseWheelListener", "removeMouseWheelListener" ); // NOI18N
             eventSets[EVENT_mouseWheelListener].setHidden ( true );
-            eventSets[EVENT_propertyChangeListener] = new EventSetDescriptor ( facebean.FaceBean.class, "propertyChangeListener", java.beans.PropertyChangeListener.class, new String[] {"propertyChange"}, "addPropertyChangeListener", "removePropertyChangeListener" ); // NOI18N
+            eventSets[EVENT_propertyChangeListener] = new EventSetDescriptor (fbclass, "propertyChangeListener", java.beans.PropertyChangeListener.class, new String[] {"propertyChange"}, "addPropertyChangeListener", "removePropertyChangeListener" ); // NOI18N
             eventSets[EVENT_propertyChangeListener].setHidden ( true );
-            eventSets[EVENT_vetoableChangeListener] = new EventSetDescriptor ( facebean.FaceBean.class, "vetoableChangeListener", java.beans.VetoableChangeListener.class, new String[] {"vetoableChange"}, "addVetoableChangeListener", "removeVetoableChangeListener" ); // NOI18N
+            eventSets[EVENT_vetoableChangeListener] = new EventSetDescriptor (fbclass, "vetoableChangeListener", java.beans.VetoableChangeListener.class, new String[] {"vetoableChange"}, "addVetoableChangeListener", "removeVetoableChangeListener" ); // NOI18N
             eventSets[EVENT_vetoableChangeListener].setHidden ( true );
         }
         catch(IntrospectionException e) {
@@ -701,7 +701,7 @@ public class FaceBeanBeanInfo extends SimpleBeanInfo {
             methods[METHOD_firePropertyChange39] = new MethodDescriptor(javax.swing.JComponent.class.getMethod("firePropertyChange", new Class[] {java.lang.String.class, char.class, char.class})); // NOI18N
             methods[METHOD_firePropertyChange39].setHidden ( true );
             methods[METHOD_firePropertyChange39].setDisplayName ( "" );
-            methods[METHOD_frown40] = new MethodDescriptor(facebean.FaceBean.class.getMethod("frown", new Class[] {})); // NOI18N
+            methods[METHOD_frown40] = new MethodDescriptor(fbclass.getMethod("frown", new Class[] {})); // NOI18N
             methods[METHOD_frown40].setPreferred ( true );
             methods[METHOD_frown40].setDisplayName ( "" );
             methods[METHOD_getActionForKeyStroke41] = new MethodDescriptor(javax.swing.JComponent.class.getMethod("getActionForKeyStroke", new Class[] {javax.swing.KeyStroke.class})); // NOI18N
@@ -860,7 +860,7 @@ public class FaceBeanBeanInfo extends SimpleBeanInfo {
             methods[METHOD_nextFocus92] = new MethodDescriptor(java.awt.Component.class.getMethod("nextFocus", new Class[] {})); // NOI18N
             methods[METHOD_nextFocus92].setHidden ( true );
             methods[METHOD_nextFocus92].setDisplayName ( "" );
-            methods[METHOD_paint93] = new MethodDescriptor(facebean.FaceBean.class.getMethod("paint", new Class[] {java.awt.Graphics.class})); // NOI18N
+            methods[METHOD_paint93] = new MethodDescriptor(fbclass.getMethod("paint", new Class[] {java.awt.Graphics.class})); // NOI18N
             methods[METHOD_paint93].setHidden ( true );
             methods[METHOD_paint93].setDisplayName ( "" );
             methods[METHOD_paintAll94] = new MethodDescriptor(java.awt.Component.class.getMethod("paintAll", new Class[] {java.awt.Graphics.class})); // NOI18N
@@ -986,7 +986,7 @@ public class FaceBeanBeanInfo extends SimpleBeanInfo {
             methods[METHOD_size134] = new MethodDescriptor(java.awt.Component.class.getMethod("size", new Class[] {})); // NOI18N
             methods[METHOD_size134].setHidden ( true );
             methods[METHOD_size134].setDisplayName ( "" );
-            methods[METHOD_smile135] = new MethodDescriptor(facebean.FaceBean.class.getMethod("smile", new Class[] {})); // NOI18N
+            methods[METHOD_smile135] = new MethodDescriptor(fbclass.getMethod("smile", new Class[] {})); // NOI18N
             methods[METHOD_smile135].setPreferred ( true );
             methods[METHOD_smile135].setDisplayName ( "" );
             methods[METHOD_toString136] = new MethodDescriptor(java.awt.Component.class.getMethod("toString", new Class[] {})); // NOI18N
