@@ -27,10 +27,10 @@
  * LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
  * NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
- */ 
+ */
 
 
-package edu.ora.se.collections.interfaces.examples ;
+package edu.ora.se.collections.interfaces.examples;
 
 
 import java.util.*;
@@ -38,9 +38,11 @@ import java.util.*;
 public class FindDups {
     public static void main(String[] args) {
         Set<String> s = new HashSet<String>();
-        for (String a : args)
-               s.add(a);
-               System.out.println(s.size() + " distinct words: " + s);
+        for (String a : args) {
+            s.add(a);
+        }
+        System.out.println(s.size() + " distinct words: " + s);
+
     }
 }
 
