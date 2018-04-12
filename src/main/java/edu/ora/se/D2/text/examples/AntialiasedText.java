@@ -32,17 +32,10 @@
 
 package edu.ora.se.D2.text.examples ;
 
-
-
-
-
-
-
-
-import java.applet.*;
+import java.applet.Applet;
 import java.awt.*;
-import java.awt.event.*;
-import java.awt.font.*;
+import java.awt.event.WindowAdapter;
+import java.awt.event.WindowEvent;
 
 /**
  * This class demonstrates how to use Rendering Hints to antialias text.
