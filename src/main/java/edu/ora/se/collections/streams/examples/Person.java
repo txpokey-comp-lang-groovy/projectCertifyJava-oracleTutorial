@@ -89,7 +89,7 @@ public class Person {
 
     public static List<Person> createRoster() {
 
-        Person[] people = {
+        final Person[] people = {
                 new Person(
                         "Fred",
                         IsoChronology.INSTANCE.date(1980, 6, 20),
